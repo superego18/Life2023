@@ -1,0 +1,933 @@
+ranking,sector,ticker1,ticker2,corr_px,corr_r,corr_px**2,corr_r**2,corr**2_sum,name1,name2,corr**2_w_sum
+49,Financials,055550_KS,316140_KS,0.0,0.768625525,0.0,0.590785197,0.590785197,"Shinhan Financial Group Co., Ltd",Woori Financial Group Inc,0.472628158
+63,Financials,138930_KS,139130_KS,0.0,0.75381546,0.0,0.568237748,0.568237748,BNK Financial Group Inc,"DGB Financial Group Co., LTD",0.454590198
+80,Financials,055550_KS,024110_KS,0.0,0.728191157,0.0,0.530262361,0.530262361,"Shinhan Financial Group Co., Ltd",Industrial Bank of Korea,0.424209889
+91,Materials,298050_KS,298020_KS,0.0,0.71641173,0.0,0.513245766,0.513245766,Hyosung Advanced Materials Corp,Hyosung Tnc Corp,0.410596613
+107,Communication Services,035420_KS,035720_KS,0.0,0.704922199,0.0,0.496915307,0.496915307,NAVER Corporation,Kakao Corp,0.397532246
+122,Financials,055550_KS,138930_KS,0.0,0.693444599,0.0,0.480865411,0.480865411,"Shinhan Financial Group Co., Ltd",BNK Financial Group Inc,0.384692329
+185,Financials,055550_KS,016360_KS,0.0,0.6404375,0.0,0.410160191,0.410160191,"Shinhan Financial Group Co., Ltd","Samsung Securities Co.,Ltd",0.328128153
+188,Financials,039490_KS,138930_KS,0.0,0.638645722,0.0,0.407868359,0.407868359,"Kiwoom Securities Co., Ltd",BNK Financial Group Inc,0.326294687
+195,Industrials,078930_KS,294870_KS,0.0,0.63640234,0.0,0.405007938,0.405007938,GS Holdings Corp,Hyundai Development Company,0.32400635
+198,Consumer Staples,090430_KS,192820_KS,0.0,0.634710751,0.0,0.402857737,0.402857737,Amorepacific Corporation,Cosmax Inc,0.32228619
+201,Financials,316140_KS,139130_KS,0.0,0.632707668,0.0,0.400318993,0.400318993,Woori Financial Group Inc,"DGB Financial Group Co., LTD",0.320255194
+204,Financials,024110_KS,039490_KS,0.0,0.63156205,0.0,0.398870623,0.398870623,Industrial Bank of Korea,"Kiwoom Securities Co., Ltd",0.319096498
+210,Consumer Discretionary,032350_KS,008770_KS,0.0,0.629506961,0.0,0.396279014,0.396279014,Lotte Tour Development Ltd,"Hotel Shilla Co.,Ltd",0.317023211
+218,Industrials,028260_KS,078930_KS,0.0,0.622150657,0.0,0.38707144,0.38707144,Samsung C&T Corporation,GS Holdings Corp,0.309657152
+220,Materials,000210_KS,004020_KS,0.0,0.621614202,0.0,0.386404216,0.386404216,"Daelim Industrial Co., Ltd",Hyundai Steel Company,0.309123373
+222,Financials,138930_KS,088350_KS,0.0,0.621231644,0.0,0.385928755,0.385928755,BNK Financial Group Inc,"Hanwha Life Insurance Co., Ltd",0.308743004
+223,Consumer Staples,001680_KS,097950_KS,0.0,0.621011697,0.0,0.385655528,0.385655528,Daesang Corporation,CJ Cheiljedang Corporation,0.308524422
+229,Consumer Staples,161890_KS,192820_KS,0.0,0.617877061,0.0,0.381772062,0.381772062,"Kolmar Korea Co., Ltd",Cosmax Inc,0.30541765
+240,Financials,139130_KS,029780_KS,0.0,0.613119124,0.0,0.37591506,0.37591506,"DGB Financial Group Co., LTD","Samsung Card Co., Ltd",0.300732048
+248,Financials,029780_KS,086790_KS,0.0,0.609093441,0.0,0.37099482,0.37099482,"Samsung Card Co., Ltd",Hana Financial Group Inc,0.296795856
+250,Health Care,185750_KS,003090_KS,0.0,0.608456521,0.0,0.370219338,0.370219338,Chong Kun Dang Pharmaceutical,"Daewoong Co., Ltd",0.29617547
+272,Financials,024110_KS,139130_KS,0.0,0.599906854,0.0,0.359888234,0.359888234,Industrial Bank of Korea,"DGB Financial Group Co., LTD",0.287910587
+280,Financials,006800_KS,039490_KS,0.0,0.596061355,0.0,0.355289139,0.355289139,"Mirae Asset Daewoo Co., Ltd","Kiwoom Securities Co., Ltd",0.284231311
+282,Industrials,078930_KS,001120_KS,0.0,0.594097479,0.0,0.352951815,0.352951815,GS Holdings Corp,LG International Corp,0.282361452
+289,Industrials,375500_KS,078930_KS,0.0,0.592618837,0.0,0.351197086,0.351197086,Dl E&C Ltd,GS Holdings Corp,0.280957669
+308,Materials,005490_KS,010130_KS,0.0,0.585839857,0.0,0.343208337,0.343208337,POSCO,"Korea Zinc Co., Ltd",0.27456667
+315,Financials,175330_KS,105560_KS,0.0,0.582887126,0.0,0.339757402,0.339757402,"JB Financial Group Co., Ltd",KB Financial Group Inc,0.271805922
+324,Financials,016360_KS,039490_KS,0.0,0.581018551,0.0,0.337582556,0.337582556,"Samsung Securities Co.,Ltd","Kiwoom Securities Co., Ltd",0.270066045
+331,Financials,055550_KS,032830_KS,0.0,0.57845647,0.0,0.334611887,0.334611887,"Shinhan Financial Group Co., Ltd","Samsung Life Insurance Co., Ltd",0.26768951
+333,Consumer Discretionary,284740_KS,020000_KS,0.0,0.576490384,0.0,0.332341162,0.332341162,Cuckoo Homesys Ltd,HANDSOME Corp,0.26587293
+343,Financials,039490_KS,316140_KS,0.0,0.573979889,0.0,0.329452913,0.329452913,"Kiwoom Securities Co., Ltd",Woori Financial Group Inc,0.26356233
+345,Consumer Staples,097950_KS,007310_KS,0.0,0.5737506,0.0,0.329189752,0.329189752,CJ Cheiljedang Corporation,Ottogi Corporation,0.263351802
+351,Materials,010130_KS,103140_KS,0.0,0.57327024,0.0,0.328638768,0.328638768,"Korea Zinc Co., Ltd",Poongsan Corporation,0.262911014
+353,Communication Services,032640_KS,030000_KS,0.0,0.572346486,0.0,0.3275805,0.3275805,LG Uplus Corp,Cheil Worldwide Inc,0.2620644
+362,Materials,001230_KS,103140_KS,0.0,0.56939279,0.0,0.324208149,0.324208149,Dongkuk Steel Mill Company Limited,Poongsan Corporation,0.259366519
+368,Consumer Discretionary,069960_KS,008770_KS,0.0,0.566819636,0.0,0.3212845,0.3212845,"Hyundai Department Store Co., Ltd","Hotel Shilla Co.,Ltd",0.2570276
+373,Health Care,008930_KS,069620_KS,0.0,0.565554853,0.0,0.319852291,0.319852291,"Hanmi Science Co., Ltd","Daewoong Pharmaceutical Co., Ltd",0.255881833
+401,Industrials,028670_KS,001120_KS,0.0,0.558135478,0.0,0.311515212,0.311515212,"Pan Ocean Co., Ltd",LG International Corp,0.24921217
+406,Consumer Discretionary,069960_KS,000240_KS,0.0,0.557070064,0.0,0.310327056,0.310327056,"Hyundai Department Store Co., Ltd","Hankook Tire Worldwide Co., Ltd",0.248261645
+409,Health Care,128940_KS,207940_KS,0.0,0.556371046,0.0,0.309548741,0.309548741,"Hanmi Pharm. Co., Ltd","Samsung Biologics Co.,Ltd",0.247638993
+412,Health Care,003090_KS,137310_KS,0.0,0.554498776,0.0,0.307468893,0.307468893,"Daewoong Co., Ltd",SD BIOSENSOR INC,0.245975114
+424,Industrials,006360_KS,028260_KS,0.0,0.551891313,0.0,0.304584022,0.304584022,GS Engineering & Construction Corporation,Samsung C&T Corporation,0.243667218
+425,Consumer Discretionary,018880_KS,271940_KS,0.0,0.551796419,0.0,0.304479288,0.304479288,Hanon Systems,Iljin HySolus Co Ltd,0.24358343
+427,Financials,139130_KS,006800_KS,0.0,0.551582991,0.0,0.304243796,0.304243796,"DGB Financial Group Co., LTD","Mirae Asset Daewoo Co., Ltd",0.243395037
+428,Industrials,028260_KS,034730_KS,0.0,0.551157083,0.0,0.30377413,0.30377413,Samsung C&T Corporation,"SK Holdings Co., Ltd",0.243019304
+431,Industrials,047040_KS,078930_KS,0.0,0.550546151,0.0,0.303101064,0.303101064,"Daewoo Engineering & Construction Co., Ltd",GS Holdings Corp,0.242480851
+437,Financials,105560_KS,029780_KS,0.0,0.54914349,0.0,0.301558573,0.301558573,KB Financial Group Inc,"Samsung Card Co., Ltd",0.241246858
+487,Health Care,003090_KS,326030_KS,0.0,0.537556485,0.0,0.288966974,0.288966974,"Daewoong Co., Ltd",Sk Biopharmaceuticals Ltd,0.231173579
+488,Consumer Discretionary,009900_KS,004490_KS,0.0,0.537467585,0.0,0.288871405,0.288871405,Myoung Shin Industrial Ltd,"Sebang Global Battery Co., Ltd",0.231097124
+490,Industrials,272210_KS,028050_KS,0.0,0.537120871,0.0,0.28849883,0.28849883,Hanwha Systems Ltd,"Samsung Engineering Co., Ltd",0.230799064
+494,Materials,120110_KS,298050_KS,0.0,0.535951171,0.0,0.287243658,0.287243658,"Kolon Industries, Inc",Hyosung Advanced Materials Corp,0.229794926
+503,Consumer Discretionary,020000_KS,161390_KS,0.0,0.534003401,0.0,0.285159632,0.285159632,HANDSOME Corp,"Hankook Tire Co., Ltd",0.228127706
+507,Industrials,078930_KS,010140_KS,0.0,0.531627974,0.0,0.282628302,0.282628302,GS Holdings Corp,"Samsung Heavy Industries Co., Ltd",0.226102642
+525,Industrials,009540_KS,034730_KS,0.0,0.527374895,0.0,0.27812428,0.27812428,HD Korea Shipbuilding & Offshore Engineering Co Lt,"SK Holdings Co., Ltd",0.222499424
+540,Industrials,034730_KS,010620_KS,0.0,0.523551155,0.0,0.274105812,0.274105812,"SK Holdings Co., Ltd","Hyundai Mipo Dockyard Co., Ltd",0.21928465
+542,Health Care,207940_KS,000100_KS,0.0,0.522526275,0.0,0.273033708,0.273033708,"Samsung Biologics Co.,Ltd",Yuhan Corporation,0.218426966
+544,Financials,006800_KS,055550_KS,0.0,0.522382348,0.0,0.272883317,0.272883317,"Mirae Asset Daewoo Co., Ltd","Shinhan Financial Group Co., Ltd",0.218306654
+573,Materials,003670_KS,010130_KS,0.0,0.513386368,0.0,0.263565563,0.263565563,Posco Chemical Co Ltd,"Korea Zinc Co., Ltd",0.21085245
+578,Health Care,069620_KS,019170_KS,0.0,0.512568605,0.0,0.262726575,0.262726575,"Daewoong Pharmaceutical Co., Ltd",Shinpoong Pharmaceutical Ltd,0.21018126
+584,Industrials,078930_KS,010620_KS,0.0,0.512011749,0.0,0.262156031,0.262156031,GS Holdings Corp,"Hyundai Mipo Dockyard Co., Ltd",0.209724825
+591,Energy,267250_KS,010950_KS,0.0,0.509632239,0.0,0.259725019,0.259725019,"Hyundai Heavy Industries Holdings Co., Ltd",S-Oil Corporation,0.207780015
+603,Health Care,302440_KS,019170_KS,0.0,0.507460771,0.0,0.257516434,0.257516434,Sk Bioscience Ltd,Shinpoong Pharmaceutical Ltd,0.206013147
+616,Consumer Discretionary,069960_KS,161390_KS,0.0,0.504523518,0.0,0.25454398,0.25454398,"Hyundai Department Store Co., Ltd","Hankook Tire Co., Ltd",0.203635184
+622,Consumer Discretionary,031430_KS,008770_KS,0.0,0.502831762,0.0,0.252839781,0.252839781,"Shinsegae International Co., Ltd","Hotel Shilla Co.,Ltd",0.202271825
+637,Industrials,010140_KS,028050_KS,0.0,0.499588291,0.0,0.24958846,0.24958846,"Samsung Heavy Industries Co., Ltd","Samsung Engineering Co., Ltd",0.199670768
+645,Industrials,010140_KS,034730_KS,0.0,0.498321936,0.0,0.248324752,0.248324752,"Samsung Heavy Industries Co., Ltd","SK Holdings Co., Ltd",0.198659802
+653,Financials,055550_KS,039490_KS,0.0,0.496921487,0.0,0.246930964,0.246930964,"Shinhan Financial Group Co., Ltd","Kiwoom Securities Co., Ltd",0.197544771
+654,Health Care,005250_KS,137310_KS,0.0,0.496899562,0.0,0.246909174,0.246909174,Green Cross Holdings Corporation,SD BIOSENSOR INC,0.197527339
+656,Financials,071050_KS,323410_KS,0.0,0.496069303,0.0,0.246084753,0.246084753,"Korea Investment Holdings Co., Ltd",Kakaobank Corp,0.196867802
+658,Industrials,034730_KS,329180_KS,0.0,0.496004849,0.0,0.246020811,0.246020811,"SK Holdings Co., Ltd","Hyundai Heavy Industries Co., Ltd",0.196816649
+660,Financials,139130_KS,016360_KS,0.0,0.495732043,0.0,0.245750258,0.245750258,"DGB Financial Group Co., LTD","Samsung Securities Co.,Ltd",0.196600206
+662,Consumer Discretionary,031430_KS,383220_KS,0.0,0.494979951,0.0,0.245005152,0.245005152,"Shinsegae International Co., Ltd",F&F Ltd,0.196004122
+666,Industrials,009540_KS,078930_KS,0.0,0.494360333,0.0,0.244392138,0.244392138,HD Korea Shipbuilding & Offshore Engineering Co Lt,GS Holdings Corp,0.19551371
+680,Consumer Discretionary,161390_KS,021240_KS,0.0,0.491344938,0.0,0.241419848,0.241419848,"Hankook Tire Co., Ltd","Coway Co., Ltd",0.193135878
+690,Industrials,010780_KS,006360_KS,0.0,0.488107809,0.0,0.238249233,0.238249233,"IS DongSeo Co., Ltd",GS Engineering & Construction Corporation,0.190599386
+691,Industrials,078930_KS,329180_KS,0.0,0.487995436,0.0,0.238139545,0.238139545,GS Holdings Corp,"Hyundai Heavy Industries Co., Ltd",0.190511636
+697,Consumer Discretionary,021240_KS,012330_KS,0.0,0.48680409,0.0,0.236978222,0.236978222,"Coway Co., Ltd","Hyundai Mobis Co.,Ltd",0.189582578
+700,Consumer Staples,051900_KS,192820_KS,0.0,0.486362741,0.0,0.236548716,0.236548716,LG Household & Health Care Ltd,Cosmax Inc,0.189238973
+701,Industrials,000150_KS,001120_KS,0.0,0.486140084,0.0,0.236332182,0.236332182,Doosan Corporation,LG International Corp,0.189065746
+710,Industrials,010140_KS,034020_KS,0.0,0.483412774,0.0,0.23368791,0.23368791,"Samsung Heavy Industries Co., Ltd","Doosan Heavy Industries & Construction Co., Ltd",0.186950328
+722,Industrials,241560_KS,078930_KS,0.0,0.481281576,0.0,0.231631955,0.231631955,Doosan Bobcat Inc,GS Holdings Corp,0.185305564
+731,Industrials,004800_KS,010780_KS,0.0,0.479582869,0.0,0.229999728,0.229999728,Hyosung Corporation,"IS DongSeo Co., Ltd",0.183999782
+740,Health Care,006280_KS,137310_KS,0.0,0.476990507,0.0,0.227519943,0.227519943,Green Cross Corporation,SD BIOSENSOR INC,0.182015954
+742,Industrials,034730_KS,294870_KS,0.0,0.476815515,0.0,0.227353035,0.227353035,"SK Holdings Co., Ltd",Hyundai Development Company,0.181882428
+750,Financials,105560_KS,039490_KS,0.0,0.475278192,0.0,0.22588936,0.22588936,KB Financial Group Inc,"Kiwoom Securities Co., Ltd",0.180711488
+752,Industrials,009540_KS,006360_KS,0.0,0.475118104,0.0,0.225737213,0.225737213,HD Korea Shipbuilding & Offshore Engineering Co Lt,GS Engineering & Construction Corporation,0.18058977
+767,Materials,006650_KS,120110_KS,0.0,0.471225865,0.0,0.222053815,0.222053815,"Korea Petrochemical Ind. Co., Ltd","Kolon Industries, Inc",0.177643052
+769,Materials,285130_KS,004000_KS,0.0,0.470603172,0.0,0.221467346,0.221467346,"SK Chemicals Co., Ltd","LOTTE Fine Chemical Co., Ltd",0.177173877
+776,Industrials,086280_KS,034730_KS,0.0,0.469148522,0.0,0.220100336,0.220100336,"Hyundai Glovis Co., Ltd","SK Holdings Co., Ltd",0.176080269
+786,Consumer Discretionary,066570_KS,021240_KS,0.0,0.467839083,0.0,0.218873408,0.218873408,LG Electronics Inc,"Coway Co., Ltd",0.175098726
+787,Industrials,011200_KS,042660_KS,0.0,0.467777388,0.0,0.218815685,0.218815685,"Hyundai Merchant Marine Co.,Ltd",Daewoo Shipbuilding,0.175052548
+795,Consumer Discretionary,021240_KS,204320_KS,0.0,0.466937712,0.0,0.218030827,0.218030827,"Coway Co., Ltd",Mando Corporation,0.174424662
+796,Materials,004020_KS,011780_KS,0.0,0.466893068,0.0,0.217989137,0.217989137,Hyundai Steel Company,"Kumho Petrochemical Co., Ltd",0.17439131
+803,Industrials,000880_KS,028050_KS,0.0,0.465353909,0.0,0.216554261,0.216554261,Hanwha Corporation,"Samsung Engineering Co., Ltd",0.173243409
+806,Consumer Discretionary,204320_KS,039130_KS,0.0,0.46471125,0.0,0.215956546,0.215956546,Mando Corporation,Hanatour Service Inc,0.172765237
+810,Consumer Discretionary,032350_KS,383220_KS,0.0,0.4638911,0.0,0.215194953,0.215194953,Lotte Tour Development Ltd,F&F Ltd,0.172155962
+825,Consumer Discretionary,069960_KS,271940_KS,0.0,0.460172557,0.0,0.211758782,0.211758782,"Hyundai Department Store Co., Ltd",Iljin HySolus Co Ltd,0.169407026
+828,Consumer Discretionary,161390_KS,004490_KS,0.0,0.459670408,0.0,0.211296884,0.211296884,"Hankook Tire Co., Ltd","Sebang Global Battery Co., Ltd",0.169037507
+832,Industrials,078930_KS,000150_KS,0.0,0.459206012,0.0,0.210870161,0.210870161,GS Holdings Corp,Doosan Corporation,0.168696129
+837,Industrials,001120_KS,003490_KS,0.0,0.457422485,0.0,0.209235329,0.209235329,LG International Corp,"Korean Air Lines Co.,Ltd",0.167388263
+839,Industrials,000150_KS,010140_KS,0.0,0.457285141,0.0,0.2091097,0.2091097,Doosan Corporation,"Samsung Heavy Industries Co., Ltd",0.16728776
+841,Financials,039490_KS,086790_KS,0.0,0.456696106,0.0,0.208571333,0.208571333,"Kiwoom Securities Co., Ltd",Hana Financial Group Inc,0.166857066
+859,Consumer Discretionary,039130_KS,008770_KS,0.0,0.45338367,0.0,0.205556753,0.205556753,Hanatour Service Inc,"Hotel Shilla Co.,Ltd",0.164445402
+860,Health Care,069620_KS,207940_KS,0.0,0.453145609,0.0,0.205340943,0.205340943,"Daewoong Pharmaceutical Co., Ltd","Samsung Biologics Co.,Ltd",0.164272754
+868,Industrials,402340_KS,006360_KS,0.0,0.451856211,0.0,0.204174036,0.204174036,SK SQUARE CO LTD,GS Engineering & Construction Corporation,0.163339229
+869,Industrials,034730_KS,001120_KS,0.0,0.451775244,0.0,0.204100871,0.204100871,"SK Holdings Co., Ltd",LG International Corp,0.163280697
+878,Communication Services,251270_KS,259960_KS,0.0,0.449721437,0.0,0.202249371,0.202249371,Netmarble Corporation,KRAFTON INC,0.161799497
+881,Consumer Discretionary,066570_KS,284740_KS,0.0,0.448953002,0.0,0.201558798,0.201558798,LG Electronics Inc,Cuckoo Homesys Ltd,0.161247038
+882,Industrials,042660_KS,028050_KS,0.0,0.448868382,0.0,0.201482824,0.201482824,Daewoo Shipbuilding,"Samsung Engineering Co., Ltd",0.161186259
+883,Consumer Discretionary,021240_KS,381970_KS,0.0,0.448776415,0.0,0.201400271,0.201400271,"Coway Co., Ltd",K Car Co Ltd,0.161120217
+885,Materials,006650_KS,298050_KS,0.0,0.448643018,0.0,0.201280558,0.201280558,"Korea Petrochemical Ind. Co., Ltd",Hyosung Advanced Materials Corp,0.161024446
+886,Materials,011780_KS,120110_KS,0.0,0.448517352,0.0,0.201167815,0.201167815,"Kumho Petrochemical Co., Ltd","Kolon Industries, Inc",0.160934252
+907,Industrials,004990_KS,010140_KS,0.0,0.444703488,0.0,0.197761192,0.197761192,LOTTE Corporation,"Samsung Heavy Industries Co., Ltd",0.158208954
+920,Financials,175330_KS,029780_KS,0.0,0.442713674,0.0,0.195995397,0.195995397,"JB Financial Group Co., Ltd","Samsung Card Co., Ltd",0.156796318
+921,Consumer Staples,003230_KS,007310_KS,0.0,0.442523277,0.0,0.195826851,0.195826851,"Samyang Foods Co., Ltd",Ottogi Corporation,0.156661481
+929,Consumer Discretionary,031430_KS,114090_KS,0.0,0.441486527,0.0,0.194910353,0.194910353,"Shinsegae International Co., Ltd","Grand Korea Leisure Co., Ltd",0.155928282
+930,Consumer Staples,001680_KS,090430_KS,0.0,0.44146949,0.0,0.194895311,0.194895311,Daesang Corporation,Amorepacific Corporation,0.155916249
+936,Industrials,004990_KS,294870_KS,0.0,0.440423695,0.0,0.193973031,0.193973031,LOTTE Corporation,Hyundai Development Company,0.155178425
+941,Health Care,302440_KS,008930_KS,0.0,0.439376298,0.0,0.193051531,0.193051531,Sk Bioscience Ltd,"Hanmi Science Co., Ltd",0.154441225
+942,Materials,300720_KS,006650_KS,0.0,0.439288664,0.0,0.19297453,0.19297453,Hanilcmt Ltd,"Korea Petrochemical Ind. Co., Ltd",0.154379624
+947,Industrials,010140_KS,052690_KS,0.0,0.438804039,0.0,0.192548985,0.192548985,"Samsung Heavy Industries Co., Ltd","KEPCO Engineering & Construction Company, Inc",0.154039188
+948,Materials,000210_KS,120110_KS,0.0,0.438592568,0.0,0.192363441,0.192363441,"Daelim Industrial Co., Ltd","Kolon Industries, Inc",0.153890753
+949,Consumer Discretionary,020000_KS,012330_KS,0.0,0.438086459,0.0,0.191919746,0.191919746,HANDSOME Corp,"Hyundai Mobis Co.,Ltd",0.153535797
+951,Industrials,009540_KS,004990_KS,0.0,0.437687433,0.0,0.191570289,0.191570289,HD Korea Shipbuilding & Offshore Engineering Co Lt,LOTTE Corporation,0.153256231
+956,Consumer Discretionary,081660_KS,031430_KS,0.0,0.437461102,0.0,0.191372216,0.191372216,Fila Korea Ltd,"Shinsegae International Co., Ltd",0.153097773
+957,Consumer Discretionary,271940_KS,241590_KS,0.0,0.437309625,0.0,0.191239708,0.191239708,Iljin HySolus Co Ltd,"Hwaseung Enterprise Co., Ltd",0.152991766
+967,Industrials,047810_KS,028670_KS,0.0,0.435955072,0.0,0.190056825,0.190056825,"Korea Aerospace Industries, Ltd","Pan Ocean Co., Ltd",0.15204546
+979,Industrials,028050_KS,079550_KS,0.0,0.434320534,0.0,0.188634326,0.188634326,"Samsung Engineering Co., Ltd",LIG Nex1 Co Ltd,0.150907461
+984,Industrials,001440_KS,336260_KS,0.0,0.434087087,0.0,0.188431599,0.188431599,"Taihan Electric Wire Co., Ltd",Doosan Fuel Cell Ltd,0.150745279
+985,Industrials,272210_KS,028670_KS,0.0,0.434083543,0.0,0.188428522,0.188428522,Hanwha Systems Ltd,"Pan Ocean Co., Ltd",0.150742818
+996,Materials,010130_KS,120110_KS,0.0,0.432213609,0.0,0.186808604,0.186808604,"Korea Zinc Co., Ltd","Kolon Industries, Inc",0.149446883
+998,Industrials,010620_KS,004990_KS,0.0,0.432059746,0.0,0.186675624,0.186675624,"Hyundai Mipo Dockyard Co., Ltd",LOTTE Corporation,0.149340499
+1011,Industrials,028050_KS,047810_KS,0.0,0.42956334,0.0,0.184524663,0.184524663,"Samsung Engineering Co., Ltd","Korea Aerospace Industries, Ltd",0.14761973
+1015,Consumer Staples,005300_KS,097950_KS,0.0,0.429007711,0.0,0.184047616,0.184047616,"Lotte Chilsung Beverage Co.,Ltd",CJ Cheiljedang Corporation,0.147238093
+1017,Consumer Discretionary,018880_KS,020000_KS,0.0,0.428506822,0.0,0.183618096,0.183618096,Hanon Systems,HANDSOME Corp,0.146894477
+1025,Consumer Discretionary,004170_KS,000240_KS,0.0,0.427551144,0.0,0.18279998,0.18279998,Shinsegae Inc,"Hankook Tire Worldwide Co., Ltd",0.146239984
+1027,Financials,175330_KS,086790_KS,0.0,0.426940165,0.0,0.182277904,0.182277904,"JB Financial Group Co., Ltd",Hana Financial Group Inc,0.145822323
+1029,Communication Services,259960_KS,036570_KS,0.0,0.426737897,0.0,0.182105232,0.182105232,KRAFTON INC,Ncsoft Corporation,0.145684186
+1033,Industrials,034020_KS,000720_KS,0.0,0.425781902,0.0,0.181290228,0.181290228,"Doosan Heavy Industries & Construction Co., Ltd","Hyundai Engineering & Construction Co., Ltd",0.145032182
+1037,Industrials,000150_KS,047040_KS,0.0,0.424512486,0.0,0.180210851,0.180210851,Doosan Corporation,"Daewoo Engineering & Construction Co., Ltd",0.144168681
+1038,Materials,120110_KS,003240_KS,0.0,0.424415134,0.0,0.180128206,0.180128206,"Kolon Industries, Inc","Taekwang Industrial Co., Ltd",0.144102565
+1039,Industrials,078930_KS,047050_KS,0.0,0.424319612,0.0,0.180047133,0.180047133,GS Holdings Corp,Posco Daewoo Corporation,0.144037706
+1040,Consumer Discretionary,066570_KS,161390_KS,0.0,0.42407256,0.0,0.179837536,0.179837536,LG Electronics Inc,"Hankook Tire Co., Ltd",0.143870029
+1041,Materials,003240_KS,004020_KS,0.0,0.424058503,0.0,0.179825614,0.179825614,"Taekwang Industrial Co., Ltd",Hyundai Steel Company,0.143860491
+1042,Health Care,207940_KS,326030_KS,0.0,0.424040343,0.0,0.179810213,0.179810213,"Samsung Biologics Co.,Ltd",Sk Biopharmaceuticals Ltd,0.14384817
+1052,Industrials,078930_KS,006260_KS,0.0,0.422442601,0.0,0.178457751,0.178457751,GS Holdings Corp,LS Corp,0.142766201
+1054,Materials,000670_KS,003670_KS,0.0,0.422124696,0.0,0.178189259,0.178189259,Young Poong Corporation,Posco Chemical Co Ltd,0.142551407
+1059,Industrials,004800_KS,336260_KS,0.0,0.421513182,0.0,0.177673362,0.177673362,Hyosung Corporation,Doosan Fuel Cell Ltd,0.14213869
+1061,Consumer Discretionary,069960_KS,081660_KS,0.0,0.421139204,0.0,0.177358229,0.177358229,"Hyundai Department Store Co., Ltd",Fila Korea Ltd,0.141886583
+1069,Health Care,326030_KS,019170_KS,0.0,0.419566007,0.0,0.176035634,0.176035634,Sk Biopharmaceuticals Ltd,Shinpoong Pharmaceutical Ltd,0.140828507
+1070,Consumer Discretionary,000270_KS,066570_KS,0.0,0.419460888,0.0,0.175947437,0.175947437,Kia Motors Corporation,LG Electronics Inc,0.14075795
+1071,Consumer Discretionary,284740_KS,204320_KS,0.0,0.419229934,0.0,0.175753738,0.175753738,Cuckoo Homesys Ltd,Mando Corporation,0.14060299
+1074,Information Technology,018260_KS,009150_KS,0.0,0.419030888,0.0,0.175586885,0.175586885,"Samsung SDS Co., Ltd","Samsung Electro-Mechanics Co., Ltd",0.140469508
+1076,Health Care,009420_KS,003090_KS,0.0,0.41853464,0.0,0.175171245,0.175171245,"HanAll Biopharma Co., Ltd","Daewoong Co., Ltd",0.140136996
+1078,Industrials,011200_KS,001120_KS,0.0,0.418438632,0.0,0.175090889,0.175090889,"Hyundai Merchant Marine Co.,Ltd",LG International Corp,0.140072711
+1081,Industrials,052690_KS,010620_KS,0.0,0.417803592,0.0,0.174559841,0.174559841,"KEPCO Engineering & Construction Company, Inc","Hyundai Mipo Dockyard Co., Ltd",0.139647873
+1090,Materials,000670_KS,004000_KS,0.0,0.416129412,0.0,0.173163687,0.173163687,Young Poong Corporation,"LOTTE Fine Chemical Co., Ltd",0.13853095
+1091,Industrials,034730_KS,375500_KS,0.0,0.416052423,0.0,0.173099618,0.173099618,"SK Holdings Co., Ltd",Dl E&C Ltd,0.138479694
+1103,Consumer Staples,026960_KS,001680_KS,0.0,0.413833882,0.0,0.171258482,0.171258482,Dongsuh,Daesang Corporation,0.137006786
+1105,Health Care,068270_KS,008930_KS,0.0,0.413504969,0.0,0.170986359,0.170986359,Celltrion Inc,"Hanmi Science Co., Ltd",0.136789087
+1109,Industrials,241560_KS,001440_KS,0.0,0.412916832,0.0,0.17050031,0.17050031,Doosan Bobcat Inc,"Taihan Electric Wire Co., Ltd",0.136400248
+1113,Industrials,336260_KS,047040_KS,0.0,0.41229375,0.0,0.169986136,0.169986136,Doosan Fuel Cell Ltd,"Daewoo Engineering & Construction Co., Ltd",0.135988909
+1119,Industrials,004990_KS,375500_KS,0.0,0.411800462,0.0,0.169579621,0.169579621,LOTTE Corporation,Dl E&C Ltd,0.135663697
+1127,Industrials,000120_KS,004990_KS,0.0,0.409644497,0.0,0.167808614,0.167808614,CJ Logistics Corporation,LOTTE Corporation,0.134246891
+1132,Financials,175330_KS,001450_KS,0.0,0.40898488,0.0,0.167268632,0.167268632,"JB Financial Group Co., Ltd",Hyundai Marine & Fire Insurance Co. Ltd,0.133814906
+1133,Consumer Staples,097950_KS,001800_KS,0.0,0.408960615,0.0,0.167248785,0.167248785,CJ Cheiljedang Corporation,ORION Holdings Corp,0.133799028
+1134,Materials,103140_KS,002380_KS,0.0,0.408856754,0.0,0.167163845,0.167163845,Poongsan Corporation,KCC Corporation,0.133731076
+1137,Consumer Discretionary,066570_KS,012330_KS,0.0,0.408306083,0.0,0.166713857,0.166713857,LG Electronics Inc,"Hyundai Mobis Co.,Ltd",0.133371086
+1145,Information Technology,000660_KS,009150_KS,0.0,0.407616307,0.0,0.166151054,0.166151054,"SK hynix, Inc","Samsung Electro-Mechanics Co., Ltd",0.132920843
+1146,Industrials,020560_KS,004800_KS,0.0,0.407412796,0.0,0.165985186,0.165985186,"Asiana Airlines, Inc",Hyosung Corporation,0.132788149
+1148,Consumer Discretionary,018880_KS,066570_KS,0.0,0.407338309,0.0,0.165924498,0.165924498,Hanon Systems,LG Electronics Inc,0.132739598
+1154,Industrials,034730_KS,402340_KS,0.0,0.405973474,0.0,0.164814462,0.164814462,"SK Holdings Co., Ltd",SK SQUARE CO LTD,0.13185157
+1159,Industrials,006360_KS,336260_KS,0.0,0.404160431,0.0,0.163345654,0.163345654,GS Engineering & Construction Corporation,Doosan Fuel Cell Ltd,0.130676523
+1161,Consumer Discretionary,066570_KS,039130_KS,0.0,0.403947688,0.0,0.163173735,0.163173735,LG Electronics Inc,Hanatour Service Inc,0.130538988
+1166,Industrials,000880_KS,078930_KS,0.0,0.403474362,0.0,0.162791561,0.162791561,Hanwha Corporation,GS Holdings Corp,0.130233249
+1167,Industrials,004800_KS,028260_KS,0.0,0.403424025,0.0,0.162750944,0.162750944,Hyosung Corporation,Samsung C&T Corporation,0.130200755
+1169,Financials,139130_KS,001450_KS,0.0,0.403140608,0.0,0.16252235,0.16252235,"DGB Financial Group Co., LTD",Hyundai Marine & Fire Insurance Co. Ltd,0.13001788
+1174,Financials,000810_KS,055550_KS,0.0,0.401978043,0.0,0.161586347,0.161586347,"Samsung Fire & Marine Insurance Co., Ltd","Shinhan Financial Group Co., Ltd",0.129269078
+1181,Health Care,068270_KS,207940_KS,0.0,0.400691329,0.0,0.160553541,0.160553541,Celltrion Inc,"Samsung Biologics Co.,Ltd",0.128442833
+1188,Consumer Discretionary,004170_KS,161390_KS,0.0,0.399669483,0.0,0.159735696,0.159735696,Shinsegae Inc,"Hankook Tire Co., Ltd",0.127788557
+1198,Industrials,086280_KS,078930_KS,0.0,0.398323501,0.0,0.158661611,0.158661611,"Hyundai Glovis Co., Ltd",GS Holdings Corp,0.126929289
+1201,Materials,003410_KS,003240_KS,0.0,0.397869561,0.0,0.158300187,0.158300187,"Ssangyong Cement Industrial Co., Ltd","Taekwang Industrial Co., Ltd",0.12664015
+1202,Consumer Discretionary,057050_KS,012330_KS,0.0,0.397794333,0.0,0.158240331,0.158240331,Hyundai Home Shopping Network Corporation,"Hyundai Mobis Co.,Ltd",0.126592265
+1208,Financials,005940_KS,055550_KS,0.0,0.396507609,0.0,0.157218284,0.157218284,"NH Investment & Securities Co., Ltd","Shinhan Financial Group Co., Ltd",0.125774627
+1214,Health Care,003090_KS,000100_KS,0.0,0.395412784,0.0,0.15635127,0.15635127,"Daewoong Co., Ltd",Yuhan Corporation,0.125081016
+1215,Consumer Discretionary,241590_KS,204320_KS,0.0,0.395274446,0.0,0.156241888,0.156241888,"Hwaseung Enterprise Co., Ltd",Mando Corporation,0.12499351
+1219,Consumer Discretionary,241590_KS,383220_KS,0.0,0.394545209,0.0,0.155665922,0.155665922,"Hwaseung Enterprise Co., Ltd",F&F Ltd,0.124532738
+1230,Industrials,042660_KS,034020_KS,0.0,0.392079299,0.0,0.153726177,0.153726177,Daewoo Shipbuilding,"Doosan Heavy Industries & Construction Co., Ltd",0.122980942
+1238,Materials,010130_KS,300720_KS,0.0,0.39081018,0.0,0.152732597,0.152732597,"Korea Zinc Co., Ltd",Hanilcmt Ltd,0.122186078
+1239,Information Technology,034220_KS,009150_KS,0.0,0.390796257,0.0,0.152721714,0.152721714,"LG Display Co., Ltd","Samsung Electro-Mechanics Co., Ltd",0.122177371
+1242,Industrials,003490_KS,180640_KS,0.0,0.390268152,0.0,0.15230923,0.15230923,"Korean Air Lines Co.,Ltd",Hanjin Kal Corp,0.121847384
+1250,Consumer Discretionary,114090_KS,383220_KS,0.0,0.389290138,0.0,0.151546812,0.151546812,"Grand Korea Leisure Co., Ltd",F&F Ltd,0.12123745
+1261,Financials,175330_KS,032830_KS,0.0,0.387073839,0.0,0.149826157,0.149826157,"JB Financial Group Co., Ltd","Samsung Life Insurance Co., Ltd",0.119860926
+1263,Industrials,000150_KS,028260_KS,0.0,0.386963641,0.0,0.149740859,0.149740859,Doosan Corporation,Samsung C&T Corporation,0.119792687
+1267,Industrials,010620_KS,011200_KS,0.0,0.386611581,0.0,0.149468515,0.149468515,"Hyundai Mipo Dockyard Co., Ltd","Hyundai Merchant Marine Co.,Ltd",0.119574812
+1270,Financials,029780_KS,032830_KS,0.0,0.386532346,0.0,0.149407255,0.149407255,"Samsung Card Co., Ltd","Samsung Life Insurance Co., Ltd",0.119525804
+1271,Industrials,004990_KS,047040_KS,0.0,0.386522016,0.0,0.149399269,0.149399269,LOTTE Corporation,"Daewoo Engineering & Construction Co., Ltd",0.119519415
+1277,Industrials,006360_KS,329180_KS,0.0,0.385522021,0.0,0.148627229,0.148627229,GS Engineering & Construction Corporation,"Hyundai Heavy Industries Co., Ltd",0.118901783
+1280,Information Technology,000990_KS,011070_KS,0.0,0.384527524,0.0,0.147861417,0.147861417,"DB Hitek Co., Ltd","LG Innotek Co., Ltd",0.118289134
+1286,Consumer Staples,282330_KS,007070_KS,0.0,0.383697702,0.0,0.147223927,0.147223927,"BGF retail CO., LTD","GSRetail Co., Ltd",0.117779142
+1299,Consumer Staples,097950_KS,280360_KS,0.0,0.380692598,0.0,0.144926854,0.144926854,CJ Cheiljedang Corporation,Lotte Confectionery Co. Ltd,0.115941483
+1303,Materials,298020_KS,120110_KS,0.0,0.380508398,0.0,0.144786641,0.144786641,Hyosung Tnc Corp,"Kolon Industries, Inc",0.115829313
+1307,Industrials,042660_KS,001040_KS,0.0,0.380216753,0.0,0.144564779,0.144564779,Daewoo Shipbuilding,CJ Corporation,0.115651823
+1308,Materials,003670_KS,298050_KS,0.0,0.379830119,0.0,0.14427092,0.14427092,Posco Chemical Co Ltd,Hyosung Advanced Materials Corp,0.115416736
+1309,Consumer Discretionary,005380_KS,066570_KS,0.0,0.379477661,0.0,0.144003295,0.144003295,Hyundai Motor Company,LG Electronics Inc,0.115202636
+1314,Industrials,028670_KS,042660_KS,0.0,0.378566983,0.0,0.143312961,0.143312961,"Pan Ocean Co., Ltd",Daewoo Shipbuilding,0.114650369
+1316,Industrials,004800_KS,028670_KS,0.0,0.378195722,0.0,0.143032004,0.143032004,Hyosung Corporation,"Pan Ocean Co., Ltd",0.114425603
+1319,Industrials,078930_KS,000720_KS,0.0,0.377658727,0.0,0.142626114,0.142626114,GS Holdings Corp,"Hyundai Engineering & Construction Co., Ltd",0.114100891
+1320,Consumer Discretionary,018880_KS,004490_KS,0.0,0.377055714,0.0,0.142171011,0.142171011,Hanon Systems,"Sebang Global Battery Co., Ltd",0.113736809
+1323,Industrials,011200_KS,000150_KS,0.0,0.376620316,0.0,0.141842862,0.141842862,"Hyundai Merchant Marine Co.,Ltd",Doosan Corporation,0.11347429
+1327,Financials,139130_KS,000810_KS,0.0,0.375725029,0.0,0.141169298,0.141169298,"DGB Financial Group Co., LTD","Samsung Fire & Marine Insurance Co., Ltd",0.112935438
+1333,Financials,323410_KS,105560_KS,0.0,0.374459641,0.0,0.140220023,0.140220023,Kakaobank Corp,KB Financial Group Inc,0.112176018
+1337,Consumer Discretionary,204320_KS,066570_KS,0.0,0.373687278,0.0,0.139642181,0.139642181,Mando Corporation,LG Electronics Inc,0.111713745
+1351,Consumer Staples,097950_KS,003230_KS,0.0,0.371378074,0.0,0.137921674,0.137921674,CJ Cheiljedang Corporation,"Samyang Foods Co., Ltd",0.110337339
+1352,Consumer Discretionary,009240_KS,013890_KS,0.0,0.371369624,0.0,0.137915397,0.137915397,"Hanssem Co., Ltd",Zinus Inc,0.110332318
+1355,Industrials,001040_KS,272210_KS,0.0,0.371198674,0.0,0.137788456,0.137788456,CJ Corporation,Hanwha Systems Ltd,0.110230765
+1356,Consumer Staples,161890_KS,007310_KS,0.0,0.371196863,0.0,0.137787111,0.137787111,"Kolmar Korea Co., Ltd",Ottogi Corporation,0.110229689
+1367,Consumer Discretionary,023530_KS,284740_KS,0.0,0.369903879,0.0,0.136828879,0.136828879,"Lotte Shopping Co., Ltd",Cuckoo Homesys Ltd,0.109463103
+1376,Consumer Discretionary,031430_KS,271940_KS,0.0,0.368666673,0.0,0.135915116,0.135915116,"Shinsegae International Co., Ltd",Iljin HySolus Co Ltd,0.108732093
+1380,Consumer Discretionary,284740_KS,081660_KS,0.0,0.368297671,0.0,0.135643174,0.135643174,Cuckoo Homesys Ltd,Fila Korea Ltd,0.108514539
+1382,Industrials,034730_KS,241560_KS,0.0,0.368066884,0.0,0.135473231,0.135473231,"SK Holdings Co., Ltd",Doosan Bobcat Inc,0.108378585
+1383,Materials,011790_KS,361610_KS,0.0,0.368063317,0.0,0.135470605,0.135470605,"SKC Co., Ltd",Sk Ie Technology Ltd,0.108376484
+1386,Materials,298050_KS,178920_KS,0.0,0.367296851,0.0,0.134906976,0.134906976,Hyosung Advanced Materials Corp,PI Advanced Materials Co Ltd,0.107925581
+1394,Financials,039490_KS,139130_KS,0.0,0.366180892,0.0,0.134088445,0.134088445,"Kiwoom Securities Co., Ltd","DGB Financial Group Co., LTD",0.107270756
+1397,Consumer Discretionary,005380_KS,004490_KS,0.0,0.365760761,0.0,0.133780934,0.133780934,Hyundai Motor Company,"Sebang Global Battery Co., Ltd",0.107024747
+1408,Consumer Discretionary,020000_KS,081660_KS,0.0,0.364441516,0.0,0.132817619,0.132817619,HANDSOME Corp,Fila Korea Ltd,0.106254095
+1412,Industrials,003550_KS,000150_KS,0.0,0.363993942,0.0,0.13249159,0.13249159,LG Corp,Doosan Corporation,0.105993272
+1416,Consumer Staples,051900_KS,007310_KS,0.0,0.363324712,0.0,0.132004846,0.132004846,LG Household & Health Care Ltd,Ottogi Corporation,0.105603877
+1417,Industrials,052690_KS,047810_KS,0.0,0.363231327,0.0,0.131936997,0.131936997,"KEPCO Engineering & Construction Company, Inc","Korea Aerospace Industries, Ltd",0.105549598
+1419,Industrials,180640_KS,020560_KS,0.0,0.36298654,0.0,0.131759228,0.131759228,Hanjin Kal Corp,"Asiana Airlines, Inc",0.105407382
+1422,Materials,001230_KS,300720_KS,0.0,0.362670298,0.0,0.131529745,0.131529745,Dongkuk Steel Mill Company Limited,Hanilcmt Ltd,0.105223796
+1423,Financials,005830_KS,139130_KS,0.0,0.362330904,0.0,0.131283684,0.131283684,"DB Insurance Co., Ltd","DGB Financial Group Co., LTD",0.105026947
+1425,Consumer Discretionary,111770_KS,031430_KS,0.0,0.361861152,0.0,0.130943493,0.130943493,Youngone Corporation,"Shinsegae International Co., Ltd",0.104754794
+1428,Consumer Discretionary,011210_KS,004490_KS,0.0,0.361273465,0.0,0.130518517,0.130518517,HYUNDAI WIA Corporation,"Sebang Global Battery Co., Ltd",0.104414814
+1431,Financials,323410_KS,055550_KS,0.0,0.360952387,0.0,0.130286625,0.130286625,Kakaobank Corp,"Shinhan Financial Group Co., Ltd",0.1042293
+1433,Industrials,000150_KS,020560_KS,0.0,0.360789695,0.0,0.130169204,0.130169204,Doosan Corporation,"Asiana Airlines, Inc",0.104135363
+1435,Consumer Discretionary,004490_KS,000270_KS,0.0,0.360690208,0.0,0.130097426,0.130097426,"Sebang Global Battery Co., Ltd",Kia Motors Corporation,0.104077941
+1436,Consumer Discretionary,069960_KS,013890_KS,0.0,0.360403069,0.0,0.129890372,0.129890372,"Hyundai Department Store Co., Ltd",Zinus Inc,0.103912298
+1437,Consumer Discretionary,032350_KS,020000_KS,0.0,0.360374791,0.0,0.12986999,0.12986999,Lotte Tour Development Ltd,HANDSOME Corp,0.103895992
+1441,Industrials,028260_KS,004990_KS,0.0,0.359484448,0.0,0.129229069,0.129229069,Samsung C&T Corporation,LOTTE Corporation,0.103383255
+1444,Consumer Discretionary,271940_KS,000240_KS,0.0,0.359102527,0.0,0.128954625,0.128954625,Iljin HySolus Co Ltd,"Hankook Tire Worldwide Co., Ltd",0.1031637
+1446,Industrials,006260_KS,028670_KS,0.0,0.359067599,0.0,0.128929541,0.128929541,LS Corp,"Pan Ocean Co., Ltd",0.103143633
+1450,Health Care,009420_KS,207940_KS,0.0,0.35834319,0.0,0.128409842,0.128409842,"HanAll Biopharma Co., Ltd","Samsung Biologics Co.,Ltd",0.102727874
+1451,Industrials,006360_KS,241560_KS,0.0,0.358313652,0.0,0.128388673,0.128388673,GS Engineering & Construction Corporation,Doosan Bobcat Inc,0.102710938
+1455,Consumer Discretionary,241590_KS,081660_KS,0.0,0.357972954,0.0,0.128144636,0.128144636,"Hwaseung Enterprise Co., Ltd",Fila Korea Ltd,0.102515709
+1456,Industrials,011200_KS,047810_KS,0.0,0.35795109,0.0,0.128128983,0.128128983,"Hyundai Merchant Marine Co.,Ltd","Korea Aerospace Industries, Ltd",0.102503186
+1463,Materials,000670_KS,014680_KS,0.0,0.357121444,0.0,0.127535726,0.127535726,Young Poong Corporation,"Hansol Chemical Co., Ltd",0.102028581
+1464,Materials,003410_KS,000210_KS,0.0,0.356891784,0.0,0.127371745,0.127371745,"Ssangyong Cement Industrial Co., Ltd","Daelim Industrial Co., Ltd",0.101897396
+1465,Materials,004020_KS,011170_KS,0.0,0.356865638,0.0,0.127353084,0.127353084,Hyundai Steel Company,Lotte Chemical Corporation,0.101882467
+1472,Consumer Discretionary,031430_KS,023530_KS,0.0,0.355723505,0.0,0.126539212,0.126539212,"Shinsegae International Co., Ltd","Lotte Shopping Co., Ltd",0.10123137
+1474,Industrials,034020_KS,010620_KS,0.0,0.355306399,0.0,0.126242637,0.126242637,"Doosan Heavy Industries & Construction Co., Ltd","Hyundai Mipo Dockyard Co., Ltd",0.10099411
+1475,Industrials,272210_KS,034020_KS,0.0,0.355150035,0.0,0.126131547,0.126131547,Hanwha Systems Ltd,"Doosan Heavy Industries & Construction Co., Ltd",0.100905238
+1478,Consumer Discretionary,011210_KS,020000_KS,0.0,0.354724356,0.0,0.125829369,0.125829369,HYUNDAI WIA Corporation,HANDSOME Corp,0.100663495
+1482,Consumer Discretionary,011210_KS,069960_KS,0.0,0.353435677,0.0,0.124916778,0.124916778,HYUNDAI WIA Corporation,"Hyundai Department Store Co., Ltd",0.099933422
+1483,Industrials,047810_KS,034020_KS,0.0,0.353316175,0.0,0.124832319,0.124832319,"Korea Aerospace Industries, Ltd","Doosan Heavy Industries & Construction Co., Ltd",0.099865855
+1488,Consumer Discretionary,031430_KS,066570_KS,0.0,0.352586524,0.0,0.124317257,0.124317257,"Shinsegae International Co., Ltd",LG Electronics Inc,0.099453806
+1489,Industrials,112610_KS,034020_KS,0.0,0.352577609,0.0,0.124310971,0.124310971,Cs Wind Corp,"Doosan Heavy Industries & Construction Co., Ltd",0.099448777
+1492,Materials,178920_KS,120110_KS,0.0,0.351888125,0.0,0.123825252,0.123825252,PI Advanced Materials Co Ltd,"Kolon Industries, Inc",0.099060202
+1495,Consumer Staples,097950_KS,090430_KS,0.0,0.350889386,0.0,0.123123361,0.123123361,CJ Cheiljedang Corporation,Amorepacific Corporation,0.098498689
+1496,Industrials,003490_KS,010620_KS,0.0,0.350825168,0.0,0.123078299,0.123078299,"Korean Air Lines Co.,Ltd","Hyundai Mipo Dockyard Co., Ltd",0.098462639
+1497,Consumer Discretionary,241590_KS,066570_KS,0.0,0.350778431,0.0,0.123045507,0.123045507,"Hwaseung Enterprise Co., Ltd",LG Electronics Inc,0.098436406
+1506,Industrials,329180_KS,004990_KS,0.0,0.349212249,0.0,0.121949195,0.121949195,"Hyundai Heavy Industries Co., Ltd",LOTTE Corporation,0.097559356
+1508,Industrials,004990_KS,001120_KS,0.0,0.348287504,0.0,0.121304185,0.121304185,LOTTE Corporation,LG International Corp,0.097043348
+1512,Consumer Discretionary,039130_KS,383220_KS,0.0,0.347436033,0.0,0.120711797,0.120711797,Hanatour Service Inc,F&F Ltd,0.096569438
+1517,Industrials,402340_KS,004990_KS,0.0,0.346589997,0.0,0.120124626,0.120124626,SK SQUARE CO LTD,LOTTE Corporation,0.096099701
+1526,Consumer Discretionary,066570_KS,011210_KS,0.0,0.345487411,0.0,0.119361551,0.119361551,LG Electronics Inc,HYUNDAI WIA Corporation,0.095489241
+1530,Industrials,000720_KS,052690_KS,0.0,0.34499096,0.0,0.119018762,0.119018762,"Hyundai Engineering & Construction Co., Ltd","KEPCO Engineering & Construction Company, Inc",0.09521501
+1532,Industrials,028050_KS,028260_KS,0.0,0.344784688,0.0,0.118876481,0.118876481,"Samsung Engineering Co., Ltd",Samsung C&T Corporation,0.095101185
+1533,Financials,029780_KS,000810_KS,0.0,0.344588833,0.0,0.118741464,0.118741464,"Samsung Card Co., Ltd","Samsung Fire & Marine Insurance Co., Ltd",0.094993171
+1535,Consumer Discretionary,020000_KS,204320_KS,0.0,0.344476831,0.0,0.118664287,0.118664287,HANDSOME Corp,Mando Corporation,0.09493143
+1536,Financials,005830_KS,175330_KS,0.0,0.343935026,0.0,0.118291302,0.118291302,"DB Insurance Co., Ltd","JB Financial Group Co., Ltd",0.094633042
+1540,Industrials,028050_KS,009540_KS,0.0,0.343794034,0.0,0.118194338,0.118194338,"Samsung Engineering Co., Ltd",HD Korea Shipbuilding & Offshore Engineering Co Lt,0.09455547
+1545,Industrials,003490_KS,034730_KS,0.0,0.343320019,0.0,0.117868635,0.117868635,"Korean Air Lines Co.,Ltd","SK Holdings Co., Ltd",0.094294908
+1547,Industrials,000120_KS,006360_KS,0.0,0.342925726,0.0,0.117598054,0.117598054,CJ Logistics Corporation,GS Engineering & Construction Corporation,0.094078443
+1549,Consumer Discretionary,013890_KS,020000_KS,0.0,0.342435075,0.0,0.117261781,0.117261781,Zinus Inc,HANDSOME Corp,0.093809425
+1550,Industrials,078930_KS,003550_KS,0.0,0.34236371,0.0,0.11721291,0.11721291,GS Holdings Corp,LG Corp,0.093770328
+1558,Industrials,001740_KS,034020_KS,0.0,0.341893998,0.0,0.116891506,0.116891506,SK Networks Company Limited,"Doosan Heavy Industries & Construction Co., Ltd",0.093513205
+1563,Industrials,034730_KS,017800_KS,0.0,0.34116153,0.0,0.11639119,0.11639119,"SK Holdings Co., Ltd","Hyundai Elevator Co., Ltd",0.093112952
+1568,Industrials,028050_KS,086280_KS,0.0,0.340676562,0.0,0.11606052,0.11606052,"Samsung Engineering Co., Ltd","Hyundai Glovis Co., Ltd",0.092848416
+1569,Health Care,207940_KS,302440_KS,0.0,0.340607295,0.0,0.116013329,0.116013329,"Samsung Biologics Co.,Ltd",Sk Bioscience Ltd,0.092810663
+1570,Industrials,180640_KS,000880_KS,0.0,0.340550518,0.0,0.115974656,0.115974656,Hanjin Kal Corp,Hanwha Corporation,0.092779725
+1573,Health Care,019170_KS,185750_KS,0.0,0.339711318,0.0,0.11540378,0.11540378,Shinpoong Pharmaceutical Ltd,Chong Kun Dang Pharmaceutical,0.092323024
+1581,Financials,029780_KS,005830_KS,0.0,0.33869475,0.0,0.114714134,0.114714134,"Samsung Card Co., Ltd","DB Insurance Co., Ltd",0.091771307
+1585,Financials,377300_KS,071050_KS,0.0,0.338344246,0.0,0.114476829,0.114476829,KakaoPay Corp,"Korea Investment Holdings Co., Ltd",0.091581463
+1586,Industrials,042670_KS,078930_KS,0.0,0.338130371,0.0,0.114332148,0.114332148,"Doosan Infracore Co., Ltd",GS Holdings Corp,0.091465718
+1588,Industrials,010620_KS,028050_KS,0.0,0.337584071,0.0,0.113963005,0.113963005,"Hyundai Mipo Dockyard Co., Ltd","Samsung Engineering Co., Ltd",0.091170404
+1589,Industrials,180640_KS,272210_KS,0.0,0.33756324,0.0,0.113948941,0.113948941,Hanjin Kal Corp,Hanwha Systems Ltd,0.091159153
+1590,Information Technology,034220_KS,018260_KS,0.0,0.337536136,0.0,0.113930643,0.113930643,"LG Display Co., Ltd","Samsung SDS Co., Ltd",0.091144514
+1592,Consumer Discretionary,271940_KS,039130_KS,0.0,0.337350177,0.0,0.113805142,0.113805142,Iljin HySolus Co Ltd,Hanatour Service Inc,0.091044114
+1596,Consumer Discretionary,023530_KS,032350_KS,0.0,0.33706791,0.0,0.113614776,0.113614776,"Lotte Shopping Co., Ltd",Lotte Tour Development Ltd,0.090891821
+1598,Materials,004020_KS,006650_KS,0.0,0.336870045,0.0,0.113481427,0.113481427,Hyundai Steel Company,"Korea Petrochemical Ind. Co., Ltd",0.090785142
+1602,Consumer Discretionary,383220_KS,284740_KS,0.0,0.336260139,0.0,0.113070881,0.113070881,F&F Ltd,Cuckoo Homesys Ltd,0.090456705
+1604,Consumer Discretionary,081660_KS,066570_KS,0.0,0.336034325,0.0,0.112919068,0.112919068,Fila Korea Ltd,LG Electronics Inc,0.090335254
+1605,Industrials,028050_KS,006260_KS,0.0,0.336014702,0.0,0.11290588,0.11290588,"Samsung Engineering Co., Ltd",LS Corp,0.090324704
+1606,Industrials,000150_KS,000880_KS,0.0,0.335962211,0.0,0.112870607,0.112870607,Doosan Corporation,Hanwha Corporation,0.090296486
+1610,Industrials,034020_KS,079550_KS,0.0,0.33543537,0.0,0.112516887,0.112516887,"Doosan Heavy Industries & Construction Co., Ltd",LIG Nex1 Co Ltd,0.09001351
+1614,Industrials,078930_KS,402340_KS,0.0,0.335234163,0.0,0.112381944,0.112381944,GS Holdings Corp,SK SQUARE CO LTD,0.089905555
+1619,Financials,039490_KS,005940_KS,0.0,0.334460353,0.0,0.111863728,0.111863728,"Kiwoom Securities Co., Ltd","NH Investment & Securities Co., Ltd",0.089490982
+1620,Materials,002380_KS,004000_KS,0.0,0.334332815,0.0,0.111778431,0.111778431,KCC Corporation,"LOTTE Fine Chemical Co., Ltd",0.089422745
+1623,Industrials,003550_KS,034730_KS,0.0,0.333967433,0.0,0.111534246,0.111534246,LG Corp,"SK Holdings Co., Ltd",0.089227397
+1624,Communication Services,035420_KS,036570_KS,0.0,0.33392502,0.0,0.111505919,0.111505919,NAVER Corporation,Ncsoft Corporation,0.089204735
+1626,Materials,014680_KS,011790_KS,0.0,0.333043021,0.0,0.110917654,0.110917654,"Hansol Chemical Co., Ltd","SKC Co., Ltd",0.088734123
+1631,Industrials,001040_KS,006260_KS,0.0,0.332585399,0.0,0.110613048,0.110613048,CJ Corporation,LS Corp,0.088490438
+1633,Financials,088350_KS,029780_KS,0.0,0.332508988,0.0,0.110562227,0.110562227,"Hanwha Life Insurance Co., Ltd","Samsung Card Co., Ltd",0.088449782
+1634,Industrials,000120_KS,078930_KS,0.0,0.332479322,0.0,0.1105425,0.1105425,CJ Logistics Corporation,GS Holdings Corp,0.088434
+1635,Financials,005940_KS,139130_KS,0.0,0.332302351,0.0,0.110424852,0.110424852,"NH Investment & Securities Co., Ltd","DGB Financial Group Co., LTD",0.088339882
+1636,Financials,086790_KS,323410_KS,0.0,0.332126275,0.0,0.110307863,0.110307863,Hana Financial Group Inc,Kakaobank Corp,0.08824629
+1637,Industrials,000150_KS,003490_KS,0.0,0.332097639,0.0,0.110288842,0.110288842,Doosan Corporation,"Korean Air Lines Co.,Ltd",0.088231074
+1638,Health Care,137310_KS,128940_KS,0.0,0.332058355,0.0,0.110262751,0.110262751,SD BIOSENSOR INC,"Hanmi Pharm. Co., Ltd",0.088210201
+1648,Consumer Discretionary,005380_KS,057050_KS,0.0,0.329857492,0.0,0.108805965,0.108805965,Hyundai Motor Company,Hyundai Home Shopping Network Corporation,0.087044772
+1654,Industrials,001440_KS,000120_KS,0.0,0.329390738,0.0,0.108498258,0.108498258,"Taihan Electric Wire Co., Ltd",CJ Logistics Corporation,0.086798606
+1655,Health Care,019170_KS,000100_KS,0.0,0.329336998,0.0,0.108462858,0.108462858,Shinpoong Pharmaceutical Ltd,Yuhan Corporation,0.086770286
+1658,Consumer Discretionary,039130_KS,081660_KS,0.0,0.328885613,0.0,0.108165746,0.108165746,Hanatour Service Inc,Fila Korea Ltd,0.086532597
+1660,Materials,120110_KS,002380_KS,0.0,0.328844904,0.0,0.108138971,0.108138971,"Kolon Industries, Inc",KCC Corporation,0.086511177
+1668,Industrials,034730_KS,000880_KS,0.0,0.327994704,0.0,0.107580526,0.107580526,"SK Holdings Co., Ltd",Hanwha Corporation,0.086064421
+1676,Industrials,011200_KS,272210_KS,0.0,0.326311875,0.0,0.10647944,0.10647944,"Hyundai Merchant Marine Co.,Ltd",Hanwha Systems Ltd,0.085183552
+1677,Consumer Staples,006040_KS,001680_KS,0.0,0.326066517,0.0,0.106319374,0.106319374,"Dongwon Industries Co., Ltd",Daesang Corporation,0.085055499
+1678,Industrials,047040_KS,034020_KS,0.0,0.325750428,0.0,0.106113341,0.106113341,"Daewoo Engineering & Construction Co., Ltd","Doosan Heavy Industries & Construction Co., Ltd",0.084890673
+1684,Consumer Discretionary,005850_KS,066570_KS,0.0,0.324820454,0.0,0.105508327,0.105508327,SL Corporation,LG Electronics Inc,0.084406662
+1687,Materials,298050_KS,014820_KS,0.0,0.324533239,0.0,0.105321823,0.105321823,Hyosung Advanced Materials Corp,Dongwon Systems Corporation,0.084257458
+1688,Consumer Discretionary,021240_KS,011210_KS,0.0,0.324477992,0.0,0.105285967,0.105285967,"Coway Co., Ltd",HYUNDAI WIA Corporation,0.084228774
+1690,Materials,300720_KS,011790_KS,0.0,0.324316357,0.0,0.1051811,0.1051811,Hanilcmt Ltd,"SKC Co., Ltd",0.08414488
+1692,Industrials,012450_KS,001040_KS,0.0,0.324187927,0.0,0.105097812,0.105097812,"Hanwha Aerospace Co., Ltd",CJ Corporation,0.08407825
+1693,Financials,175330_KS,005940_KS,0.0,0.324041931,0.0,0.105003173,0.105003173,"JB Financial Group Co., Ltd","NH Investment & Securities Co., Ltd",0.084002538
+1694,Industrials,241560_KS,004990_KS,0.0,0.323610713,0.0,0.104723893,0.104723893,Doosan Bobcat Inc,LOTTE Corporation,0.083779114
+1699,Consumer Discretionary,009240_KS,020000_KS,0.0,0.323028935,0.0,0.104347693,0.104347693,"Hanssem Co., Ltd",HANDSOME Corp,0.083478154
+1700,Consumer Staples,001680_KS,002790_KS,0.0,0.322810994,0.0,0.104206938,0.104206938,Daesang Corporation,AMOREPACIFIC Group,0.08336555
+1707,Industrials,001440_KS,294870_KS,0.0,0.321950896,0.0,0.103652379,0.103652379,"Taihan Electric Wire Co., Ltd",Hyundai Development Company,0.082921903
+1709,Consumer Discretionary,271940_KS,000270_KS,0.0,0.32154221,0.0,0.103389393,0.103389393,Iljin HySolus Co Ltd,Kia Motors Corporation,0.082711514
+1712,Consumer Discretionary,271940_KS,284740_KS,0.0,0.32122906,0.0,0.103188109,0.103188109,Iljin HySolus Co Ltd,Cuckoo Homesys Ltd,0.082550487
+1716,Industrials,012450_KS,028050_KS,0.0,0.320800957,0.0,0.102913254,0.102913254,"Hanwha Aerospace Co., Ltd","Samsung Engineering Co., Ltd",0.082330603
+1717,Materials,298050_KS,069260_KS,0.0,0.320480463,0.0,0.102707727,0.102707727,Hyosung Advanced Materials Corp,Huchems Fine Chemical Corporation,0.082166182
+1721,Industrials,020560_KS,034730_KS,0.0,0.320155641,0.0,0.102499634,0.102499634,"Asiana Airlines, Inc","SK Holdings Co., Ltd",0.081999707
+1724,Materials,001230_KS,010060_KS,0.0,0.319635571,0.0,0.102166898,0.102166898,Dongkuk Steel Mill Company Limited,OCI Company Ltd,0.081733518
+1731,Industrials,006260_KS,004990_KS,0.0,0.318758841,0.0,0.101607199,0.101607199,LS Corp,LOTTE Corporation,0.081285759
+1734,Consumer Discretionary,011210_KS,057050_KS,0.0,0.318211319,0.0,0.101258444,0.101258444,HYUNDAI WIA Corporation,Hyundai Home Shopping Network Corporation,0.081006755
+1735,Information Technology,006400_KS,018260_KS,0.0,0.318124509,0.0,0.101203203,0.101203203,"Samsung SDI Co., Ltd","Samsung SDS Co., Ltd",0.080962562
+1741,Materials,011790_KS,005490_KS,0.0,0.31746684,0.0,0.100785195,0.100785195,"SKC Co., Ltd",POSCO,0.080628156
+1742,Industrials,004990_KS,020560_KS,0.0,0.317237665,0.0,0.100639736,0.100639736,LOTTE Corporation,"Asiana Airlines, Inc",0.080511789
+1744,Health Care,019170_KS,068270_KS,0.0,0.317170383,0.0,0.100597052,0.100597052,Shinpoong Pharmaceutical Ltd,Celltrion Inc,0.080477642
+1745,Materials,014680_KS,178920_KS,0.0,0.317158651,0.0,0.10058961,0.10058961,"Hansol Chemical Co., Ltd",PI Advanced Materials Co Ltd,0.080471688
+1746,Industrials,001440_KS,329180_KS,0.0,0.316913476,0.0,0.100434151,0.100434151,"Taihan Electric Wire Co., Ltd","Hyundai Heavy Industries Co., Ltd",0.080347321
+1749,Consumer Staples,097950_KS,051900_KS,0.0,0.31625728,0.0,0.100018667,0.100018667,CJ Cheiljedang Corporation,LG Household & Health Care Ltd,0.080014934
+1751,Materials,298020_KS,051910_KS,0.0,0.316055771,0.0,0.09989125,0.09989125,Hyosung Tnc Corp,"LG Chem, Ltd",0.079913
+1755,Materials,003670_KS,001230_KS,0.0,0.315879749,0.0,0.099780016,0.099780016,Posco Chemical Co Ltd,Dongkuk Steel Mill Company Limited,0.079824013
+1757,Consumer Discretionary,021240_KS,057050_KS,0.0,0.315630408,0.0,0.099622554,0.099622554,"Coway Co., Ltd",Hyundai Home Shopping Network Corporation,0.079698043
+1765,Materials,011790_KS,003670_KS,0.0,0.31356237,0.0,0.09832136,0.09832136,"SKC Co., Ltd",Posco Chemical Co Ltd,0.078657088
+1766,Materials,093370_KS,003670_KS,0.0,0.313376698,0.0,0.098204955,0.098204955,"Foosung Co., Ltd",Posco Chemical Co Ltd,0.078563964
+1770,Health Care,003850_KS,137310_KS,0.0,0.312671186,0.0,0.097763271,0.097763271,Boryung Pharmaceutical Ltd,SD BIOSENSOR INC,0.078210617
+1773,Industrials,272210_KS,003490_KS,0.0,0.311661359,0.0,0.097132803,0.097132803,Hanwha Systems Ltd,"Korean Air Lines Co.,Ltd",0.077706242
+1775,Industrials,042660_KS,052690_KS,0.0,0.31142234,0.0,0.096983874,0.096983874,Daewoo Shipbuilding,"KEPCO Engineering & Construction Company, Inc",0.077587099
+1776,Financials,323410_KS,316140_KS,0.0,0.311227183,0.0,0.09686236,0.09686236,Kakaobank Corp,Woori Financial Group Inc,0.077489888
+1777,Industrials,004990_KS,003490_KS,0.0,0.311119814,0.0,0.096795539,0.096795539,LOTTE Corporation,"Korean Air Lines Co.,Ltd",0.077436431
+1779,Financials,029780_KS,001450_KS,0.0,0.311060495,0.0,0.096758632,0.096758632,"Samsung Card Co., Ltd",Hyundai Marine & Fire Insurance Co. Ltd,0.077406906
+1781,Industrials,000120_KS,012750_KS,0.0,0.310445676,0.0,0.096376518,0.096376518,CJ Logistics Corporation,S-1 Corporation,0.077101214
+1782,Consumer Discretionary,031430_KS,204320_KS,0.0,0.310019865,0.0,0.096112316,0.096112316,"Shinsegae International Co., Ltd",Mando Corporation,0.076889853
+1786,Health Care,207940_KS,003850_KS,0.0,0.309636233,0.0,0.095874597,0.095874597,"Samsung Biologics Co.,Ltd",Boryung Pharmaceutical Ltd,0.076699678
+1788,Industrials,079550_KS,052690_KS,0.0,0.309207507,0.0,0.095609282,0.095609282,LIG Nex1 Co Ltd,"KEPCO Engineering & Construction Company, Inc",0.076487426
+1789,Industrials,047040_KS,028050_KS,0.0,0.309066869,0.0,0.09552233,0.09552233,"Daewoo Engineering & Construction Co., Ltd","Samsung Engineering Co., Ltd",0.076417864
+1793,Materials,011170_KS,120110_KS,0.0,0.308313417,0.0,0.095057163,0.095057163,Lotte Chemical Corporation,"Kolon Industries, Inc",0.07604573
+1794,Financials,071050_KS,000810_KS,0.0,0.308203465,0.0,0.094989376,0.094989376,"Korea Investment Holdings Co., Ltd","Samsung Fire & Marine Insurance Co., Ltd",0.075991501
+1796,Consumer Discretionary,111770_KS,012330_KS,0.0,0.308084241,0.0,0.0949159,0.0949159,Youngone Corporation,"Hyundai Mobis Co.,Ltd",0.07593272
+1803,Consumer Discretionary,204320_KS,081660_KS,0.0,0.307202206,0.0,0.094373195,0.094373195,Mando Corporation,Fila Korea Ltd,0.075498556
+1806,Industrials,010120_KS,028050_KS,0.0,0.306778659,0.0,0.094113145,0.094113145,"LSIS Co., Ltd","Samsung Engineering Co., Ltd",0.075290516
+1808,Consumer Discretionary,111770_KS,009240_KS,0.0,0.306389848,0.0,0.093874739,0.093874739,Youngone Corporation,"Hanssem Co., Ltd",0.075099791
+1809,Consumer Discretionary,004490_KS,284740_KS,0.0,0.306189745,0.0,0.09375216,0.09375216,"Sebang Global Battery Co., Ltd",Cuckoo Homesys Ltd,0.075001728
+1815,Consumer Discretionary,111770_KS,005380_KS,0.0,0.305682464,0.0,0.093441769,0.093441769,Youngone Corporation,Hyundai Motor Company,0.074753415
+1816,Consumer Discretionary,381970_KS,004170_KS,0.0,0.305626954,0.0,0.093407835,0.093407835,K Car Co Ltd,Shinsegae Inc,0.074726268
+1819,Materials,011790_KS,298050_KS,0.0,0.305292816,0.0,0.093203703,0.093203703,"SKC Co., Ltd",Hyosung Advanced Materials Corp,0.074562962
+1820,Industrials,003490_KS,047810_KS,0.0,0.304815679,0.0,0.092912598,0.092912598,"Korean Air Lines Co.,Ltd","Korea Aerospace Industries, Ltd",0.074330078
+1825,Industrials,001440_KS,020560_KS,0.0,0.303693463,0.0,0.09222972,0.09222972,"Taihan Electric Wire Co., Ltd","Asiana Airlines, Inc",0.073783776
+1827,Materials,103140_KS,003240_KS,0.0,0.303270915,0.0,0.091973248,0.091973248,Poongsan Corporation,"Taekwang Industrial Co., Ltd",0.073578598
+1830,Industrials,004990_KS,000880_KS,0.0,0.302513019,0.0,0.091514126,0.091514126,LOTTE Corporation,Hanwha Corporation,0.073211301
+1831,Communication Services,251270_KS,035720_KS,0.0,0.302025241,0.0,0.091219246,0.091219246,Netmarble Corporation,Kakao Corp,0.072975397
+1832,Industrials,001040_KS,047810_KS,0.0,0.301964936,0.0,0.091182823,0.091182823,CJ Corporation,"Korea Aerospace Industries, Ltd",0.072946258
+1835,Consumer Discretionary,020000_KS,000270_KS,0.0,0.301668831,0.0,0.091004084,0.091004084,HANDSOME Corp,Kia Motors Corporation,0.072803267
+1836,Consumer Discretionary,020000_KS,271940_KS,0.0,0.301511272,0.0,0.090909047,0.090909047,HANDSOME Corp,Iljin HySolus Co Ltd,0.072727238
+1843,Consumer Discretionary,069960_KS,009900_KS,0.0,0.300371005,0.0,0.090222741,0.090222741,"Hyundai Department Store Co., Ltd",Myoung Shin Industrial Ltd,0.072178193
+1847,Industrials,000720_KS,028050_KS,0.0,0.298982697,0.0,0.089390653,0.089390653,"Hyundai Engineering & Construction Co., Ltd","Samsung Engineering Co., Ltd",0.071512522
+1850,Industrials,000720_KS,004990_KS,0.0,0.298483734,0.0,0.08909254,0.08909254,"Hyundai Engineering & Construction Co., Ltd",LOTTE Corporation,0.071274032
+1851,Industrials,402340_KS,012750_KS,0.0,0.298349353,0.0,0.089012337,0.089012337,SK SQUARE CO LTD,S-1 Corporation,0.07120987
+1852,Consumer Staples,192820_KS,001680_KS,0.0,0.298109808,0.0,0.088869457,0.088869457,Cosmax Inc,Daesang Corporation,0.071095566
+1856,Consumer Discretionary,066570_KS,013890_KS,0.0,0.297109788,0.0,0.088274226,0.088274226,LG Electronics Inc,Zinus Inc,0.070619381
+1857,Consumer Staples,097950_KS,002790_KS,0.0,0.296975784,0.0,0.088194616,0.088194616,CJ Cheiljedang Corporation,AMOREPACIFIC Group,0.070555693
+1858,Industrials,000150_KS,000120_KS,0.0,0.296906917,0.0,0.088153717,0.088153717,Doosan Corporation,CJ Logistics Corporation,0.070522974
+1862,Industrials,112610_KS,052690_KS,0.0,0.296788673,0.0,0.088083516,0.088083516,Cs Wind Corp,"KEPCO Engineering & Construction Company, Inc",0.070466813
+1866,Consumer Staples,282330_KS,003230_KS,0.0,0.296408521,0.0,0.087858011,0.087858011,"BGF retail CO., LTD","Samyang Foods Co., Ltd",0.070286409
+1867,Industrials,001040_KS,001120_KS,0.0,0.296408432,0.0,0.087857958,0.087857958,CJ Corporation,LG International Corp,0.070286366
+1868,Consumer Discretionary,081660_KS,018880_KS,0.0,0.29632224,0.0,0.08780687,0.08780687,Fila Korea Ltd,Hanon Systems,0.070245496
+1869,Financials,138930_KS,323410_KS,0.0,0.296241267,0.0,0.087758888,0.087758888,BNK Financial Group Inc,Kakaobank Corp,0.07020711
+1870,Materials,005490_KS,298050_KS,0.0,0.296109251,0.0,0.087680688,0.087680688,POSCO,Hyosung Advanced Materials Corp,0.07014455
+1875,Consumer Discretionary,383220_KS,069960_KS,0.0,0.295630203,0.0,0.087397217,0.087397217,F&F Ltd,"Hyundai Department Store Co., Ltd",0.069917774
+1883,Materials,300720_KS,000670_KS,0.0,0.294085436,0.0,0.086486243,0.086486243,Hanilcmt Ltd,Young Poong Corporation,0.069188994
+1884,Financials,029780_KS,323410_KS,0.0,0.294075938,0.0,0.086480657,0.086480657,"Samsung Card Co., Ltd",Kakaobank Corp,0.069184526
+1890,Materials,011170_KS,005490_KS,0.0,0.292414486,0.0,0.085506232,0.085506232,Lotte Chemical Corporation,POSCO,0.068404986
+1895,Materials,011170_KS,051910_KS,0.0,0.291783662,0.0,0.085137706,0.085137706,Lotte Chemical Corporation,"LG Chem, Ltd",0.068110165
+1897,Financials,377300_KS,016360_KS,0.0,0.291713259,0.0,0.085096625,0.085096625,KakaoPay Corp,"Samsung Securities Co.,Ltd",0.0680773
+1899,Consumer Staples,001680_KS,000080_KS,0.0,0.291635027,0.0,0.085050989,0.085050989,Daesang Corporation,"HITEJINRO Co., Ltd",0.068040791
+1901,Industrials,009540_KS,001440_KS,0.0,0.291203935,0.0,0.084799732,0.084799732,HD Korea Shipbuilding & Offshore Engineering Co Lt,"Taihan Electric Wire Co., Ltd",0.067839786
+1902,Materials,298050_KS,285130_KS,0.0,0.290747261,0.0,0.08453397,0.08453397,Hyosung Advanced Materials Corp,"SK Chemicals Co., Ltd",0.067627176
+1905,Industrials,047050_KS,034020_KS,0.0,0.28973866,0.0,0.083948491,0.083948491,Posco Daewoo Corporation,"Doosan Heavy Industries & Construction Co., Ltd",0.067158793
+1906,Consumer Discretionary,039130_KS,009900_KS,0.0,0.289711572,0.0,0.083932795,0.083932795,Hanatour Service Inc,Myoung Shin Industrial Ltd,0.067146236
+1908,Industrials,034730_KS,028670_KS,0.0,0.28915384,0.0,0.083609943,0.083609943,"SK Holdings Co., Ltd","Pan Ocean Co., Ltd",0.066887954
+1909,Industrials,028260_KS,001440_KS,0.0,0.289005365,0.0,0.083524101,0.083524101,Samsung C&T Corporation,"Taihan Electric Wire Co., Ltd",0.066819281
+1912,Industrials,001440_KS,402340_KS,0.0,0.287903599,0.0,0.082888483,0.082888483,"Taihan Electric Wire Co., Ltd",SK SQUARE CO LTD,0.066310786
+1916,Consumer Discretionary,271940_KS,013890_KS,0.0,0.287579517,0.0,0.082701979,0.082701979,Iljin HySolus Co Ltd,Zinus Inc,0.066161583
+1917,Industrials,272210_KS,052690_KS,0.0,0.287483487,0.0,0.082646755,0.082646755,Hanwha Systems Ltd,"KEPCO Engineering & Construction Company, Inc",0.066117404
+1918,Financials,039490_KS,005830_KS,0.0,0.286869374,0.0,0.082294038,0.082294038,"Kiwoom Securities Co., Ltd","DB Insurance Co., Ltd",0.06583523
+1922,Industrials,001440_KS,375500_KS,0.0,0.28551089,0.0,0.081516469,0.081516469,"Taihan Electric Wire Co., Ltd",Dl E&C Ltd,0.065213175
+1923,Industrials,028260_KS,012750_KS,0.0,0.285122981,0.0,0.081295114,0.081295114,Samsung C&T Corporation,S-1 Corporation,0.065036091
+1929,Industrials,180640_KS,028050_KS,0.0,0.283703397,0.0,0.080487617,0.080487617,Hanjin Kal Corp,"Samsung Engineering Co., Ltd",0.064390094
+1931,Consumer Staples,271560_KS,033780_KS,0.0,0.283543502,0.0,0.080396918,0.080396918,Orion Corp,KT&G Corporation,0.064317534
+1932,Consumer Discretionary,021240_KS,105630_KS,0.0,0.283522753,0.0,0.080385152,0.080385152,"Coway Co., Ltd","Hansae Co., Ltd",0.064308122
+1933,Materials,051910_KS,004000_KS,0.0,0.283159542,0.0,0.080179326,0.080179326,"LG Chem, Ltd","LOTTE Fine Chemical Co., Ltd",0.064143461
+1935,Industrials,042660_KS,051600_KS,0.0,0.282671257,0.0,0.07990304,0.07990304,Daewoo Shipbuilding,"KEPCO Plant Service & Engineering Co.,Ltd",0.063922432
+1936,Industrials,001120_KS,052690_KS,0.0,0.282640125,0.0,0.07988544,0.07988544,LG International Corp,"KEPCO Engineering & Construction Company, Inc",0.063908352
+1939,Consumer Discretionary,161390_KS,271940_KS,0.0,0.282206708,0.0,0.079640626,0.079640626,"Hankook Tire Co., Ltd",Iljin HySolus Co Ltd,0.063712501
+1943,Industrials,079550_KS,051600_KS,0.0,0.28162364,0.0,0.079311875,0.079311875,LIG Nex1 Co Ltd,"KEPCO Plant Service & Engineering Co.,Ltd",0.0634495
+1944,Industrials,001440_KS,064350_KS,0.0,0.281621779,0.0,0.079310826,0.079310826,"Taihan Electric Wire Co., Ltd",Hyundai Rotem Company,0.063448661
+1945,Industrials,086280_KS,034020_KS,0.0,0.281339789,0.0,0.079152077,0.079152077,"Hyundai Glovis Co., Ltd","Doosan Heavy Industries & Construction Co., Ltd",0.063321662
+1947,Industrials,180640_KS,009540_KS,0.0,0.280833225,0.0,0.0788673,0.0788673,Hanjin Kal Corp,HD Korea Shipbuilding & Offshore Engineering Co Lt,0.06309384
+1950,Industrials,078930_KS,047810_KS,0.0,0.279913784,0.0,0.078351727,0.078351727,GS Holdings Corp,"Korea Aerospace Industries, Ltd",0.062681382
+1954,Materials,000670_KS,178920_KS,0.0,0.279097845,0.0,0.077895607,0.077895607,Young Poong Corporation,PI Advanced Materials Co Ltd,0.062316486
+1955,Industrials,329180_KS,180640_KS,0.0,0.278980187,0.0,0.077829945,0.077829945,"Hyundai Heavy Industries Co., Ltd",Hanjin Kal Corp,0.062263956
+1956,Information Technology,000990_KS,009150_KS,0.0,0.278777587,0.0,0.077716943,0.077716943,"DB Hitek Co., Ltd","Samsung Electro-Mechanics Co., Ltd",0.062173554
+1959,Consumer Discretionary,004490_KS,005850_KS,0.0,0.278634682,0.0,0.077637286,0.077637286,"Sebang Global Battery Co., Ltd",SL Corporation,0.062109829
+1961,Consumer Discretionary,271940_KS,081660_KS,0.0,0.277287095,0.0,0.076888133,0.076888133,Iljin HySolus Co Ltd,Fila Korea Ltd,0.061510506
+1963,Industrials,028050_KS,001120_KS,0.0,0.277051543,0.0,0.076757558,0.076757558,"Samsung Engineering Co., Ltd",LG International Corp,0.061406046
+1964,Consumer Discretionary,020000_KS,005380_KS,0.0,0.276974116,0.0,0.076714661,0.076714661,HANDSOME Corp,Hyundai Motor Company,0.061371729
+1966,Consumer Discretionary,192080_KS,035250_KS,0.0,0.276742559,0.0,0.076586444,0.076586444,DoubleU Games Co Ltd,"Kangwon Land, Inc",0.061269155
+1967,Consumer Discretionary,057050_KS,161390_KS,0.0,0.276726815,0.0,0.07657773,0.07657773,Hyundai Home Shopping Network Corporation,"Hankook Tire Co., Ltd",0.061262184
+1974,Industrials,012450_KS,000150_KS,0.0,0.275615479,0.0,0.075963892,0.075963892,"Hanwha Aerospace Co., Ltd",Doosan Corporation,0.060771114
+1980,Health Care,207940_KS,005250_KS,0.0,0.275041452,0.0,0.0756478,0.0756478,"Samsung Biologics Co.,Ltd",Green Cross Holdings Corporation,0.06051824
+1984,Industrials,001120_KS,034020_KS,0.0,0.27456571,0.0,0.075386329,0.075386329,LG International Corp,"Doosan Heavy Industries & Construction Co., Ltd",0.060309063
+1986,Materials,069260_KS,000670_KS,0.0,0.274468979,0.0,0.075333221,0.075333221,Huchems Fine Chemical Corporation,Young Poong Corporation,0.060266577
+1987,Health Care,019170_KS,128940_KS,0.0,0.274278965,0.0,0.075228951,0.075228951,Shinpoong Pharmaceutical Ltd,"Hanmi Pharm. Co., Ltd",0.060183161
+1991,Industrials,000150_KS,042660_KS,0.0,0.273722697,0.0,0.074924115,0.074924115,Doosan Corporation,Daewoo Shipbuilding,0.059939292
+1996,Materials,016380_KS,011780_KS,0.0,0.272695022,0.0,0.074362575,0.074362575,Kg Dongbusteel Ltd,"Kumho Petrochemical Co., Ltd",0.05949006
+2001,Consumer Discretionary,057050_KS,008770_KS,0.0,0.272367798,0.0,0.074184217,0.074184217,Hyundai Home Shopping Network Corporation,"Hotel Shilla Co.,Ltd",0.059347374
+2002,Industrials,012450_KS,034020_KS,0.0,0.272157696,0.0,0.074069811,0.074069811,"Hanwha Aerospace Co., Ltd","Doosan Heavy Industries & Construction Co., Ltd",0.059255849
+2004,Consumer Staples,000080_KS,280360_KS,0.0,0.271152495,0.0,0.073523676,0.073523676,"HITEJINRO Co., Ltd",Lotte Confectionery Co. Ltd,0.058818941
+2005,Industrials,042660_KS,078930_KS,0.0,0.271127452,0.0,0.073510095,0.073510095,Daewoo Shipbuilding,GS Holdings Corp,0.058808076
+2007,Consumer Discretionary,035250_KS,012330_KS,0.0,0.270860126,0.0,0.073365208,0.073365208,"Kangwon Land, Inc","Hyundai Mobis Co.,Ltd",0.058692166
+2011,Industrials,001440_KS,000150_KS,0.0,0.270187862,0.0,0.073001481,0.073001481,"Taihan Electric Wire Co., Ltd",Doosan Corporation,0.058401185
+2015,Industrials,000150_KS,112610_KS,0.0,0.269003541,0.0,0.072362905,0.072362905,Doosan Corporation,Cs Wind Corp,0.057890324
+2016,Consumer Staples,001800_KS,280360_KS,0.0,0.268960405,0.0,0.0723397,0.0723397,ORION Holdings Corp,Lotte Confectionery Co. Ltd,0.05787176
+2018,Industrials,034020_KS,010120_KS,0.0,0.268534646,0.0,0.072110856,0.072110856,"Doosan Heavy Industries & Construction Co., Ltd","LSIS Co., Ltd",0.057688685
+2019,Consumer Discretionary,004490_KS,111770_KS,0.0,0.268013456,0.0,0.071831213,0.071831213,"Sebang Global Battery Co., Ltd",Youngone Corporation,0.05746497
+2022,Materials,002380_KS,093370_KS,0.0,0.267943611,0.0,0.071793779,0.071793779,KCC Corporation,"Foosung Co., Ltd",0.057435023
+2024,Industrials,078930_KS,010120_KS,0.0,0.267653113,0.0,0.071638189,0.071638189,GS Holdings Corp,"LSIS Co., Ltd",0.057310551
+2025,Industrials,006260_KS,034730_KS,0.0,0.267612551,0.0,0.071616478,0.071616478,LS Corp,"SK Holdings Co., Ltd",0.057293182
+2026,Industrials,004800_KS,034020_KS,0.0,0.267581868,0.0,0.071600056,0.071600056,Hyosung Corporation,"Doosan Heavy Industries & Construction Co., Ltd",0.057280045
+2029,Industrials,086280_KS,006360_KS,0.0,0.26687269,0.0,0.071221033,0.071221033,"Hyundai Glovis Co., Ltd",GS Engineering & Construction Corporation,0.056976826
+2035,Consumer Staples,280360_KS,051900_KS,0.0,0.266360161,0.0,0.070947735,0.070947735,Lotte Confectionery Co. Ltd,LG Household & Health Care Ltd,0.056758188
+2039,Consumer Discretionary,284740_KS,114090_KS,0.0,0.265194071,0.0,0.070327895,0.070327895,Cuckoo Homesys Ltd,"Grand Korea Leisure Co., Ltd",0.056262316
+2041,Consumer Discretionary,023530_KS,005380_KS,0.0,0.264287019,0.0,0.069847628,0.069847628,"Lotte Shopping Co., Ltd",Hyundai Motor Company,0.055878102
+2045,Consumer Discretionary,381970_KS,031430_KS,0.0,0.263811074,0.0,0.069596283,0.069596283,K Car Co Ltd,"Shinsegae International Co., Ltd",0.055677026
+2046,Industrials,180640_KS,001740_KS,0.0,0.263522452,0.0,0.069444083,0.069444083,Hanjin Kal Corp,SK Networks Company Limited,0.055555266
+2048,Industrials,047050_KS,034730_KS,0.0,0.263206748,0.0,0.069277792,0.069277792,Posco Daewoo Corporation,"SK Holdings Co., Ltd",0.055422234
+2052,Industrials,020560_KS,006260_KS,0.0,0.262244446,0.0,0.068772149,0.068772149,"Asiana Airlines, Inc",LS Corp,0.055017719
+2053,Consumer Discretionary,005380_KS,271940_KS,0.0,0.262239364,0.0,0.068769484,0.068769484,Hyundai Motor Company,Iljin HySolus Co Ltd,0.055015587
+2058,Consumer Discretionary,011210_KS,081660_KS,0.0,0.261590632,0.0,0.068429659,0.068429659,HYUNDAI WIA Corporation,Fila Korea Ltd,0.054743727
+2059,Financials,377300_KS,316140_KS,0.0,0.261577854,0.0,0.068422973,0.068422973,KakaoPay Corp,Woori Financial Group Inc,0.054738378
+2060,Consumer Discretionary,004490_KS,012330_KS,0.0,0.261399844,0.0,0.068329878,0.068329878,"Sebang Global Battery Co., Ltd","Hyundai Mobis Co.,Ltd",0.054663902
+2062,Materials,298020_KS,014680_KS,0.0,0.259903564,0.0,0.067549862,0.067549862,Hyosung Tnc Corp,"Hansol Chemical Co., Ltd",0.05403989
+2063,Consumer Discretionary,032350_KS,004490_KS,0.0,0.259531757,0.0,0.067356733,0.067356733,Lotte Tour Development Ltd,"Sebang Global Battery Co., Ltd",0.053885386
+2064,Industrials,028050_KS,017800_KS,0.0,0.259220358,0.0,0.067195194,0.067195194,"Samsung Engineering Co., Ltd","Hyundai Elevator Co., Ltd",0.053756155
+2066,Consumer Staples,007310_KS,192820_KS,0.0,0.258939636,0.0,0.067049735,0.067049735,Ottogi Corporation,Cosmax Inc,0.053639788
+2068,Industrials,028050_KS,294870_KS,0.0,0.258897515,0.0,0.067027923,0.067027923,"Samsung Engineering Co., Ltd",Hyundai Development Company,0.053622338
+2074,Consumer Discretionary,008770_KS,241590_KS,0.0,0.258046234,0.0,0.066587859,0.066587859,"Hotel Shilla Co.,Ltd","Hwaseung Enterprise Co., Ltd",0.053270287
+2075,Materials,103140_KS,298050_KS,0.0,0.257989426,0.0,0.066558544,0.066558544,Poongsan Corporation,Hyosung Advanced Materials Corp,0.053246835
+2076,Consumer Discretionary,008770_KS,111770_KS,0.0,0.257986372,0.0,0.066556968,0.066556968,"Hotel Shilla Co.,Ltd",Youngone Corporation,0.053245574
+2079,Consumer Discretionary,111770_KS,383220_KS,0.0,0.257344776,0.0,0.066226334,0.066226334,Youngone Corporation,F&F Ltd,0.052981067
+2086,Materials,298020_KS,005490_KS,0.0,0.25592373,0.0,0.065496956,0.065496956,Hyosung Tnc Corp,POSCO,0.052397565
+2087,Industrials,017800_KS,012750_KS,0.0,0.255714651,0.0,0.065389983,0.065389983,"Hyundai Elevator Co., Ltd",S-1 Corporation,0.052311986
+2088,Industrials,006260_KS,051600_KS,0.0,0.255585091,0.0,0.065323739,0.065323739,LS Corp,"KEPCO Plant Service & Engineering Co.,Ltd",0.052258991
+2095,Consumer Discretionary,081660_KS,000270_KS,0.0,0.254754988,0.0,0.064900104,0.064900104,Fila Korea Ltd,Kia Motors Corporation,0.051920083
+2096,Industrials,011200_KS,079550_KS,0.0,0.254650202,0.0,0.064846725,0.064846725,"Hyundai Merchant Marine Co.,Ltd",LIG Nex1 Co Ltd,0.05187738
+2517,Consumer Discretionary,000270_KS,057050_KS,0.0,0.0,0.0,0.0,0.0,Kia Motors Corporation,Hyundai Home Shopping Network Corporation,0.0
+2518,Consumer Discretionary,192080_KS,021240_KS,0.0,0.0,0.0,0.0,0.0,DoubleU Games Co Ltd,"Coway Co., Ltd",0.0
+2519,Consumer Discretionary,192080_KS,057050_KS,0.0,0.0,0.0,0.0,0.0,DoubleU Games Co Ltd,Hyundai Home Shopping Network Corporation,0.0
+2520,Consumer Discretionary,192080_KS,114090_KS,0.0,0.0,0.0,0.0,0.0,DoubleU Games Co Ltd,"Grand Korea Leisure Co., Ltd",0.0
+2521,Consumer Discretionary,192080_KS,204320_KS,0.0,0.0,0.0,0.0,0.0,DoubleU Games Co Ltd,Mando Corporation,0.0
+2522,Consumer Discretionary,000240_KS,114090_KS,0.0,0.0,0.0,0.0,0.0,"Hankook Tire Worldwide Co., Ltd","Grand Korea Leisure Co., Ltd",0.0
+2523,Consumer Discretionary,004170_KS,012330_KS,0.0,0.0,0.0,0.0,0.0,Shinsegae Inc,"Hyundai Mobis Co.,Ltd",0.0
+2524,Consumer Discretionary,004170_KS,009900_KS,0.0,0.0,0.0,0.0,0.0,Shinsegae Inc,Myoung Shin Industrial Ltd,0.0
+2525,Consumer Discretionary,004170_KS,105630_KS,0.0,0.0,0.0,0.0,0.0,Shinsegae Inc,"Hansae Co., Ltd",0.0
+2526,Consumer Discretionary,004170_KS,192080_KS,0.0,0.0,0.0,0.0,0.0,Shinsegae Inc,DoubleU Games Co Ltd,0.0
+2527,Consumer Discretionary,004170_KS,271940_KS,0.0,0.0,0.0,0.0,0.0,Shinsegae Inc,Iljin HySolus Co Ltd,0.0
+2528,Consumer Discretionary,004490_KS,114090_KS,0.0,0.0,0.0,0.0,0.0,"Sebang Global Battery Co., Ltd","Grand Korea Leisure Co., Ltd",0.0
+2529,Consumer Discretionary,004490_KS,057050_KS,0.0,0.0,0.0,0.0,0.0,"Sebang Global Battery Co., Ltd",Hyundai Home Shopping Network Corporation,0.0
+2530,Consumer Discretionary,004490_KS,009240_KS,0.0,0.0,0.0,0.0,0.0,"Sebang Global Battery Co., Ltd","Hanssem Co., Ltd",0.0
+2531,Consumer Discretionary,114090_KS,192080_KS,0.0,0.0,0.0,0.0,0.0,"Grand Korea Leisure Co., Ltd",DoubleU Games Co Ltd,0.0
+2532,Consumer Discretionary,114090_KS,241590_KS,0.0,0.0,0.0,0.0,0.0,"Grand Korea Leisure Co., Ltd","Hwaseung Enterprise Co., Ltd",0.0
+2533,Consumer Discretionary,114090_KS,381970_KS,0.0,0.0,0.0,0.0,0.0,"Grand Korea Leisure Co., Ltd",K Car Co Ltd,0.0
+2534,Consumer Discretionary,161390_KS,383220_KS,0.0,0.0,0.0,0.0,0.0,"Hankook Tire Co., Ltd",F&F Ltd,0.0
+2535,Consumer Discretionary,383220_KS,012330_KS,0.0,0.0,0.0,0.0,0.0,F&F Ltd,"Hyundai Mobis Co.,Ltd",0.0
+2536,Consumer Discretionary,383220_KS,018880_KS,0.0,0.0,0.0,0.0,0.0,F&F Ltd,Hanon Systems,0.0
+2537,Consumer Discretionary,383220_KS,081660_KS,0.0,0.0,0.0,0.0,0.0,F&F Ltd,Fila Korea Ltd,0.0
+2538,Consumer Discretionary,383220_KS,204320_KS,0.0,0.0,0.0,0.0,0.0,F&F Ltd,Mando Corporation,0.0
+2539,Consumer Discretionary,161390_KS,114090_KS,0.0,0.0,0.0,0.0,0.0,"Hankook Tire Co., Ltd","Grand Korea Leisure Co., Ltd",0.0
+2540,Consumer Discretionary,241590_KS,105630_KS,0.0,0.0,0.0,0.0,0.0,"Hwaseung Enterprise Co., Ltd","Hansae Co., Ltd",0.0
+2541,Consumer Discretionary,241590_KS,114090_KS,0.0,0.0,0.0,0.0,0.0,"Hwaseung Enterprise Co., Ltd","Grand Korea Leisure Co., Ltd",0.0
+2542,Consumer Discretionary,241590_KS,381970_KS,0.0,0.0,0.0,0.0,0.0,"Hwaseung Enterprise Co., Ltd",K Car Co Ltd,0.0
+2543,Consumer Discretionary,114090_KS,057050_KS,0.0,0.0,0.0,0.0,0.0,"Grand Korea Leisure Co., Ltd",Hyundai Home Shopping Network Corporation,0.0
+2544,Consumer Discretionary,114090_KS,073240_KS,0.0,0.0,0.0,0.0,0.0,"Grand Korea Leisure Co., Ltd","Kumho Tire Co., Inc",0.0
+2545,Consumer Discretionary,114090_KS,005850_KS,0.0,0.0,0.0,0.0,0.0,"Grand Korea Leisure Co., Ltd",SL Corporation,0.0
+2546,Consumer Discretionary,114090_KS,004490_KS,0.0,0.0,0.0,0.0,0.0,"Grand Korea Leisure Co., Ltd","Sebang Global Battery Co., Ltd",0.0
+2547,Consumer Discretionary,204320_KS,114090_KS,0.0,0.0,0.0,0.0,0.0,Mando Corporation,"Grand Korea Leisure Co., Ltd",0.0
+2548,Consumer Discretionary,204320_KS,383220_KS,0.0,0.0,0.0,0.0,0.0,Mando Corporation,F&F Ltd,0.0
+2549,Consumer Discretionary,204320_KS,004490_KS,0.0,0.0,0.0,0.0,0.0,Mando Corporation,"Sebang Global Battery Co., Ltd",0.0
+2550,Consumer Discretionary,204320_KS,008770_KS,0.0,0.0,0.0,0.0,0.0,Mando Corporation,"Hotel Shilla Co.,Ltd",0.0
+2551,Consumer Discretionary,204320_KS,069960_KS,0.0,0.0,0.0,0.0,0.0,Mando Corporation,"Hyundai Department Store Co., Ltd",0.0
+2552,Consumer Discretionary,009240_KS,204320_KS,0.0,0.0,0.0,0.0,0.0,"Hanssem Co., Ltd",Mando Corporation,0.0
+2553,Consumer Discretionary,009240_KS,271940_KS,0.0,0.0,0.0,0.0,0.0,"Hanssem Co., Ltd",Iljin HySolus Co Ltd,0.0
+2554,Consumer Discretionary,105630_KS,271940_KS,0.0,0.0,0.0,0.0,0.0,"Hansae Co., Ltd",Iljin HySolus Co Ltd,0.0
+2555,Consumer Discretionary,009240_KS,004490_KS,0.0,0.0,0.0,0.0,0.0,"Hanssem Co., Ltd","Sebang Global Battery Co., Ltd",0.0
+2556,Consumer Discretionary,005850_KS,081660_KS,0.0,0.0,0.0,0.0,0.0,SL Corporation,Fila Korea Ltd,0.0
+2557,Consumer Discretionary,111770_KS,039130_KS,0.0,0.0,0.0,0.0,0.0,Youngone Corporation,Hanatour Service Inc,0.0
+2558,Consumer Discretionary,111770_KS,066570_KS,0.0,0.0,0.0,0.0,0.0,Youngone Corporation,LG Electronics Inc,0.0
+2559,Consumer Discretionary,111770_KS,073240_KS,0.0,0.0,0.0,0.0,0.0,Youngone Corporation,"Kumho Tire Co., Inc",0.0
+2560,Consumer Discretionary,111770_KS,105630_KS,0.0,0.0,0.0,0.0,0.0,Youngone Corporation,"Hansae Co., Ltd",0.0
+2561,Consumer Discretionary,111770_KS,114090_KS,0.0,0.0,0.0,0.0,0.0,Youngone Corporation,"Grand Korea Leisure Co., Ltd",0.0
+2562,Consumer Discretionary,111770_KS,192080_KS,0.0,0.0,0.0,0.0,0.0,Youngone Corporation,DoubleU Games Co Ltd,0.0
+2563,Consumer Discretionary,111770_KS,241590_KS,0.0,0.0,0.0,0.0,0.0,Youngone Corporation,"Hwaseung Enterprise Co., Ltd",0.0
+2564,Consumer Discretionary,111770_KS,011210_KS,0.0,0.0,0.0,0.0,0.0,Youngone Corporation,HYUNDAI WIA Corporation,0.0
+2565,Consumer Discretionary,035250_KS,105630_KS,0.0,0.0,0.0,0.0,0.0,"Kangwon Land, Inc","Hansae Co., Ltd",0.0
+2566,Consumer Discretionary,035250_KS,066570_KS,0.0,0.0,0.0,0.0,0.0,"Kangwon Land, Inc",LG Electronics Inc,0.0
+2567,Consumer Discretionary,035250_KS,011210_KS,0.0,0.0,0.0,0.0,0.0,"Kangwon Land, Inc",HYUNDAI WIA Corporation,0.0
+2568,Consumer Discretionary,039130_KS,057050_KS,0.0,0.0,0.0,0.0,0.0,Hanatour Service Inc,Hyundai Home Shopping Network Corporation,0.0
+2569,Consumer Discretionary,035250_KS,009900_KS,0.0,0.0,0.0,0.0,0.0,"Kangwon Land, Inc",Myoung Shin Industrial Ltd,0.0
+2570,Consumer Discretionary,031430_KS,057050_KS,0.0,0.0,0.0,0.0,0.0,"Shinsegae International Co., Ltd",Hyundai Home Shopping Network Corporation,0.0
+2571,Consumer Discretionary,031430_KS,105630_KS,0.0,0.0,0.0,0.0,0.0,"Shinsegae International Co., Ltd","Hansae Co., Ltd",0.0
+2572,Consumer Discretionary,066570_KS,057050_KS,0.0,0.0,0.0,0.0,0.0,LG Electronics Inc,Hyundai Home Shopping Network Corporation,0.0
+2573,Consumer Discretionary,066570_KS,069960_KS,0.0,0.0,0.0,0.0,0.0,LG Electronics Inc,"Hyundai Department Store Co., Ltd",0.0
+2574,Consumer Discretionary,066570_KS,111770_KS,0.0,0.0,0.0,0.0,0.0,LG Electronics Inc,Youngone Corporation,0.0
+2575,Consumer Discretionary,066570_KS,271940_KS,0.0,0.0,0.0,0.0,0.0,LG Electronics Inc,Iljin HySolus Co Ltd,0.0
+2576,Consumer Discretionary,066570_KS,032350_KS,0.0,0.0,0.0,0.0,0.0,LG Electronics Inc,Lotte Tour Development Ltd,0.0
+2577,Consumer Discretionary,011210_KS,035250_KS,0.0,0.0,0.0,0.0,0.0,HYUNDAI WIA Corporation,"Kangwon Land, Inc",0.0
+2578,Consumer Discretionary,011210_KS,004170_KS,0.0,0.0,0.0,0.0,0.0,HYUNDAI WIA Corporation,Shinsegae Inc,0.0
+2579,Consumer Discretionary,009900_KS,035250_KS,0.0,0.0,0.0,0.0,0.0,Myoung Shin Industrial Ltd,"Kangwon Land, Inc",0.0
+2580,Consumer Discretionary,009900_KS,081660_KS,0.0,0.0,0.0,0.0,0.0,Myoung Shin Industrial Ltd,Fila Korea Ltd,0.0
+2581,Consumer Discretionary,009900_KS,381970_KS,0.0,0.0,0.0,0.0,0.0,Myoung Shin Industrial Ltd,K Car Co Ltd,0.0
+2582,Consumer Discretionary,009900_KS,009240_KS,0.0,0.0,0.0,0.0,0.0,Myoung Shin Industrial Ltd,"Hanssem Co., Ltd",0.0
+2583,Consumer Discretionary,009900_KS,004170_KS,0.0,0.0,0.0,0.0,0.0,Myoung Shin Industrial Ltd,Shinsegae Inc,0.0
+2584,Consumer Discretionary,012330_KS,383220_KS,0.0,0.0,0.0,0.0,0.0,"Hyundai Mobis Co.,Ltd",F&F Ltd,0.0
+2585,Consumer Discretionary,012330_KS,081660_KS,0.0,0.0,0.0,0.0,0.0,"Hyundai Mobis Co.,Ltd",Fila Korea Ltd,0.0
+2586,Consumer Discretionary,012330_KS,114090_KS,0.0,0.0,0.0,0.0,0.0,"Hyundai Mobis Co.,Ltd","Grand Korea Leisure Co., Ltd",0.0
+2587,Consumer Discretionary,081660_KS,105630_KS,0.0,0.0,0.0,0.0,0.0,Fila Korea Ltd,"Hansae Co., Ltd",0.0
+2588,Consumer Discretionary,012330_KS,004170_KS,0.0,0.0,0.0,0.0,0.0,"Hyundai Mobis Co.,Ltd",Shinsegae Inc,0.0
+2589,Consumer Discretionary,081660_KS,004170_KS,0.0,0.0,0.0,0.0,0.0,Fila Korea Ltd,Shinsegae Inc,0.0
+2590,Consumer Discretionary,081660_KS,005850_KS,0.0,0.0,0.0,0.0,0.0,Fila Korea Ltd,SL Corporation,0.0
+2591,Consumer Discretionary,081660_KS,009900_KS,0.0,0.0,0.0,0.0,0.0,Fila Korea Ltd,Myoung Shin Industrial Ltd,0.0
+2592,Consumer Discretionary,081660_KS,012330_KS,0.0,0.0,0.0,0.0,0.0,Fila Korea Ltd,"Hyundai Mobis Co.,Ltd",0.0
+2593,Consumer Discretionary,081660_KS,032350_KS,0.0,0.0,0.0,0.0,0.0,Fila Korea Ltd,Lotte Tour Development Ltd,0.0
+2594,Consumer Discretionary,008770_KS,021240_KS,0.0,0.0,0.0,0.0,0.0,"Hotel Shilla Co.,Ltd","Coway Co., Ltd",0.0
+2595,Consumer Discretionary,008770_KS,009900_KS,0.0,0.0,0.0,0.0,0.0,"Hotel Shilla Co.,Ltd",Myoung Shin Industrial Ltd,0.0
+2596,Consumer Discretionary,111770_KS,381970_KS,0.0,0.0,0.0,0.0,0.0,Youngone Corporation,K Car Co Ltd,0.0
+2597,Consumer Discretionary,008770_KS,204320_KS,0.0,0.0,0.0,0.0,0.0,"Hotel Shilla Co.,Ltd",Mando Corporation,0.0
+2598,Consumer Discretionary,013890_KS,004170_KS,0.0,0.0,0.0,0.0,0.0,Zinus Inc,Shinsegae Inc,0.0
+2599,Consumer Discretionary,013890_KS,381970_KS,0.0,0.0,0.0,0.0,0.0,Zinus Inc,K Car Co Ltd,0.0
+2600,Consumer Discretionary,011210_KS,383220_KS,0.0,0.0,0.0,0.0,0.0,HYUNDAI WIA Corporation,F&F Ltd,0.0
+2601,Consumer Discretionary,057050_KS,073240_KS,0.0,0.0,0.0,0.0,0.0,Hyundai Home Shopping Network Corporation,"Kumho Tire Co., Inc",0.0
+2602,Consumer Discretionary,057050_KS,105630_KS,0.0,0.0,0.0,0.0,0.0,Hyundai Home Shopping Network Corporation,"Hansae Co., Ltd",0.0
+2603,Consumer Discretionary,057050_KS,114090_KS,0.0,0.0,0.0,0.0,0.0,Hyundai Home Shopping Network Corporation,"Grand Korea Leisure Co., Ltd",0.0
+2604,Consumer Discretionary,271940_KS,057050_KS,0.0,0.0,0.0,0.0,0.0,Iljin HySolus Co Ltd,Hyundai Home Shopping Network Corporation,0.0
+2605,Consumer Discretionary,271940_KS,105630_KS,0.0,0.0,0.0,0.0,0.0,Iljin HySolus Co Ltd,"Hansae Co., Ltd",0.0
+2606,Consumer Discretionary,381970_KS,057050_KS,0.0,0.0,0.0,0.0,0.0,K Car Co Ltd,Hyundai Home Shopping Network Corporation,0.0
+2607,Consumer Discretionary,383220_KS,005850_KS,0.0,0.0,0.0,0.0,0.0,F&F Ltd,SL Corporation,0.0
+2608,Consumer Discretionary,381970_KS,114090_KS,0.0,0.0,0.0,0.0,0.0,K Car Co Ltd,"Grand Korea Leisure Co., Ltd",0.0
+2609,Consumer Discretionary,057050_KS,204320_KS,0.0,0.0,0.0,0.0,0.0,Hyundai Home Shopping Network Corporation,Mando Corporation,0.0
+2610,Consumer Discretionary,073240_KS,020000_KS,0.0,0.0,0.0,0.0,0.0,"Kumho Tire Co., Inc",HANDSOME Corp,0.0
+2611,Consumer Discretionary,073240_KS,066570_KS,0.0,0.0,0.0,0.0,0.0,"Kumho Tire Co., Inc",LG Electronics Inc,0.0
+2612,Consumer Discretionary,073240_KS,004490_KS,0.0,0.0,0.0,0.0,0.0,"Kumho Tire Co., Inc","Sebang Global Battery Co., Ltd",0.0
+2613,Consumer Discretionary,069960_KS,192080_KS,0.0,0.0,0.0,0.0,0.0,"Hyundai Department Store Co., Ltd",DoubleU Games Co Ltd,0.0
+2614,Consumer Discretionary,381970_KS,009900_KS,0.0,0.0,0.0,0.0,0.0,K Car Co Ltd,Myoung Shin Industrial Ltd,0.0
+2615,Consumer Discretionary,020000_KS,009900_KS,0.0,0.0,0.0,0.0,0.0,HANDSOME Corp,Myoung Shin Industrial Ltd,0.0
+2616,Consumer Discretionary,020000_KS,073240_KS,0.0,0.0,0.0,0.0,0.0,HANDSOME Corp,"Kumho Tire Co., Inc",0.0
+2617,Consumer Discretionary,032350_KS,057050_KS,0.0,0.0,0.0,0.0,0.0,Lotte Tour Development Ltd,Hyundai Home Shopping Network Corporation,0.0
+2618,Consumer Discretionary,057050_KS,032350_KS,0.0,0.0,0.0,0.0,0.0,Hyundai Home Shopping Network Corporation,Lotte Tour Development Ltd,0.0
+2619,Consumer Discretionary,057050_KS,271940_KS,0.0,0.0,0.0,0.0,0.0,Hyundai Home Shopping Network Corporation,Iljin HySolus Co Ltd,0.0
+2620,Consumer Discretionary,057050_KS,381970_KS,0.0,0.0,0.0,0.0,0.0,Hyundai Home Shopping Network Corporation,K Car Co Ltd,0.0
+2621,Consumer Discretionary,057050_KS,039130_KS,0.0,0.0,0.0,0.0,0.0,Hyundai Home Shopping Network Corporation,Hanatour Service Inc,0.0
+2622,Consumer Discretionary,057050_KS,004490_KS,0.0,0.0,0.0,0.0,0.0,Hyundai Home Shopping Network Corporation,"Sebang Global Battery Co., Ltd",0.0
+2623,Consumer Discretionary,057050_KS,005850_KS,0.0,0.0,0.0,0.0,0.0,Hyundai Home Shopping Network Corporation,SL Corporation,0.0
+2624,Consumer Discretionary,057050_KS,009900_KS,0.0,0.0,0.0,0.0,0.0,Hyundai Home Shopping Network Corporation,Myoung Shin Industrial Ltd,0.0
+2625,Consumer Discretionary,057050_KS,018880_KS,0.0,0.0,0.0,0.0,0.0,Hyundai Home Shopping Network Corporation,Hanon Systems,0.0
+2626,Consumer Discretionary,057050_KS,023530_KS,0.0,0.0,0.0,0.0,0.0,Hyundai Home Shopping Network Corporation,"Lotte Shopping Co., Ltd",0.0
+2627,Consumer Discretionary,032350_KS,271940_KS,0.0,0.0,0.0,0.0,0.0,Lotte Tour Development Ltd,Iljin HySolus Co Ltd,0.0
+2628,Consumer Discretionary,032350_KS,081660_KS,0.0,0.0,0.0,0.0,0.0,Lotte Tour Development Ltd,Fila Korea Ltd,0.0
+2629,Consumer Discretionary,284740_KS,105630_KS,0.0,0.0,0.0,0.0,0.0,Cuckoo Homesys Ltd,"Hansae Co., Ltd",0.0
+2630,Consumer Discretionary,023530_KS,066570_KS,0.0,0.0,0.0,0.0,0.0,"Lotte Shopping Co., Ltd",LG Electronics Inc,0.0
+2631,Consumer Discretionary,021240_KS,009900_KS,0.0,0.0,0.0,0.0,0.0,"Coway Co., Ltd",Myoung Shin Industrial Ltd,0.0
+2632,Industrials,042670_KS,003490_KS,0.0,0.0,0.0,0.0,0.0,"Doosan Infracore Co., Ltd","Korean Air Lines Co.,Ltd",0.0
+2633,Industrials,047050_KS,180640_KS,0.0,0.0,0.0,0.0,0.0,Posco Daewoo Corporation,Hanjin Kal Corp,0.0
+2634,Industrials,047050_KS,004990_KS,0.0,0.0,0.0,0.0,0.0,Posco Daewoo Corporation,LOTTE Corporation,0.0
+2635,Industrials,047040_KS,012750_KS,0.0,0.0,0.0,0.0,0.0,"Daewoo Engineering & Construction Co., Ltd",S-1 Corporation,0.0
+2636,Industrials,047040_KS,004800_KS,0.0,0.0,0.0,0.0,0.0,"Daewoo Engineering & Construction Co., Ltd",Hyosung Corporation,0.0
+2637,Industrials,047040_KS,180640_KS,0.0,0.0,0.0,0.0,0.0,"Daewoo Engineering & Construction Co., Ltd",Hanjin Kal Corp,0.0
+2638,Industrials,042660_KS,034730_KS,0.0,0.0,0.0,0.0,0.0,Daewoo Shipbuilding,"SK Holdings Co., Ltd",0.0
+2639,Industrials,042660_KS,004990_KS,0.0,0.0,0.0,0.0,0.0,Daewoo Shipbuilding,LOTTE Corporation,0.0
+2640,Industrials,042670_KS,004990_KS,0.0,0.0,0.0,0.0,0.0,"Doosan Infracore Co., Ltd",LOTTE Corporation,0.0
+2641,Industrials,078930_KS,112610_KS,0.0,0.0,0.0,0.0,0.0,GS Holdings Corp,Cs Wind Corp,0.0
+2642,Industrials,042670_KS,034730_KS,0.0,0.0,0.0,0.0,0.0,"Doosan Infracore Co., Ltd","SK Holdings Co., Ltd",0.0
+2643,Industrials,078930_KS,064350_KS,0.0,0.0,0.0,0.0,0.0,GS Holdings Corp,Hyundai Rotem Company,0.0
+2644,Industrials,078930_KS,012750_KS,0.0,0.0,0.0,0.0,0.0,GS Holdings Corp,S-1 Corporation,0.0
+2645,Industrials,051600_KS,034730_KS,0.0,0.0,0.0,0.0,0.0,"KEPCO Plant Service & Engineering Co.,Ltd","SK Holdings Co., Ltd",0.0
+2646,Industrials,051600_KS,004990_KS,0.0,0.0,0.0,0.0,0.0,"KEPCO Plant Service & Engineering Co.,Ltd",LOTTE Corporation,0.0
+2647,Industrials,051600_KS,373220_KS,0.0,0.0,0.0,0.0,0.0,"KEPCO Plant Service & Engineering Co.,Ltd",LG ENERGY SOLUTION LTD,0.0
+2648,Industrials,051600_KS,180640_KS,0.0,0.0,0.0,0.0,0.0,"KEPCO Plant Service & Engineering Co.,Ltd",Hanjin Kal Corp,0.0
+2649,Industrials,051600_KS,047810_KS,0.0,0.0,0.0,0.0,0.0,"KEPCO Plant Service & Engineering Co.,Ltd","Korea Aerospace Industries, Ltd",0.0
+2650,Industrials,051600_KS,012750_KS,0.0,0.0,0.0,0.0,0.0,"KEPCO Plant Service & Engineering Co.,Ltd",S-1 Corporation,0.0
+2651,Industrials,047810_KS,051600_KS,0.0,0.0,0.0,0.0,0.0,"Korea Aerospace Industries, Ltd","KEPCO Plant Service & Engineering Co.,Ltd",0.0
+2652,Industrials,047810_KS,028260_KS,0.0,0.0,0.0,0.0,0.0,"Korea Aerospace Industries, Ltd",Samsung C&T Corporation,0.0
+2653,Industrials,047810_KS,000120_KS,0.0,0.0,0.0,0.0,0.0,"Korea Aerospace Industries, Ltd",CJ Logistics Corporation,0.0
+2654,Industrials,006360_KS,051600_KS,0.0,0.0,0.0,0.0,0.0,GS Engineering & Construction Corporation,"KEPCO Plant Service & Engineering Co.,Ltd",0.0
+2655,Industrials,006360_KS,020560_KS,0.0,0.0,0.0,0.0,0.0,GS Engineering & Construction Corporation,"Asiana Airlines, Inc",0.0
+2656,Industrials,006360_KS,017800_KS,0.0,0.0,0.0,0.0,0.0,GS Engineering & Construction Corporation,"Hyundai Elevator Co., Ltd",0.0
+2657,Industrials,006360_KS,012750_KS,0.0,0.0,0.0,0.0,0.0,GS Engineering & Construction Corporation,S-1 Corporation,0.0
+2658,Industrials,006360_KS,001040_KS,0.0,0.0,0.0,0.0,0.0,GS Engineering & Construction Corporation,CJ Corporation,0.0
+2659,Industrials,006260_KS,011200_KS,0.0,0.0,0.0,0.0,0.0,LS Corp,"Hyundai Merchant Marine Co.,Ltd",0.0
+2660,Industrials,006260_KS,028260_KS,0.0,0.0,0.0,0.0,0.0,LS Corp,Samsung C&T Corporation,0.0
+2661,Industrials,006260_KS,052690_KS,0.0,0.0,0.0,0.0,0.0,LS Corp,"KEPCO Engineering & Construction Company, Inc",0.0
+2662,Industrials,006260_KS,047040_KS,0.0,0.0,0.0,0.0,0.0,LS Corp,"Daewoo Engineering & Construction Co., Ltd",0.0
+2663,Industrials,006360_KS,373220_KS,0.0,0.0,0.0,0.0,0.0,GS Engineering & Construction Corporation,LG ENERGY SOLUTION LTD,0.0
+2664,Industrials,004800_KS,052690_KS,0.0,0.0,0.0,0.0,0.0,Hyosung Corporation,"KEPCO Engineering & Construction Company, Inc",0.0
+2665,Industrials,004800_KS,047040_KS,0.0,0.0,0.0,0.0,0.0,Hyosung Corporation,"Daewoo Engineering & Construction Co., Ltd",0.0
+2666,Industrials,010140_KS,012750_KS,0.0,0.0,0.0,0.0,0.0,"Samsung Heavy Industries Co., Ltd",S-1 Corporation,0.0
+2667,Industrials,010120_KS,011200_KS,0.0,0.0,0.0,0.0,0.0,"LSIS Co., Ltd","Hyundai Merchant Marine Co.,Ltd",0.0
+2668,Industrials,010120_KS,006360_KS,0.0,0.0,0.0,0.0,0.0,"LSIS Co., Ltd",GS Engineering & Construction Corporation,0.0
+2669,Industrials,010120_KS,003490_KS,0.0,0.0,0.0,0.0,0.0,"LSIS Co., Ltd","Korean Air Lines Co.,Ltd",0.0
+2670,Industrials,010120_KS,034730_KS,0.0,0.0,0.0,0.0,0.0,"LSIS Co., Ltd","SK Holdings Co., Ltd",0.0
+2671,Industrials,001120_KS,180640_KS,0.0,0.0,0.0,0.0,0.0,LG International Corp,Hanjin Kal Corp,0.0
+2672,Industrials,004990_KS,180640_KS,0.0,0.0,0.0,0.0,0.0,LOTTE Corporation,Hanjin Kal Corp,0.0
+2673,Industrials,010780_KS,001440_KS,0.0,0.0,0.0,0.0,0.0,"IS DongSeo Co., Ltd","Taihan Electric Wire Co., Ltd",0.0
+2674,Industrials,004990_KS,112610_KS,0.0,0.0,0.0,0.0,0.0,LOTTE Corporation,Cs Wind Corp,0.0
+2675,Industrials,004990_KS,086280_KS,0.0,0.0,0.0,0.0,0.0,LOTTE Corporation,"Hyundai Glovis Co., Ltd",0.0
+2676,Industrials,004990_KS,052690_KS,0.0,0.0,0.0,0.0,0.0,LOTTE Corporation,"KEPCO Engineering & Construction Company, Inc",0.0
+2677,Industrials,004990_KS,047810_KS,0.0,0.0,0.0,0.0,0.0,LOTTE Corporation,"Korea Aerospace Industries, Ltd",0.0
+2678,Industrials,004990_KS,042670_KS,0.0,0.0,0.0,0.0,0.0,LOTTE Corporation,"Doosan Infracore Co., Ltd",0.0
+2679,Industrials,004990_KS,017800_KS,0.0,0.0,0.0,0.0,0.0,LOTTE Corporation,"Hyundai Elevator Co., Ltd",0.0
+2680,Industrials,004990_KS,003550_KS,0.0,0.0,0.0,0.0,0.0,LOTTE Corporation,LG Corp,0.0
+2681,Industrials,004990_KS,001440_KS,0.0,0.0,0.0,0.0,0.0,LOTTE Corporation,"Taihan Electric Wire Co., Ltd",0.0
+2682,Industrials,011200_KS,001740_KS,0.0,0.0,0.0,0.0,0.0,"Hyundai Merchant Marine Co.,Ltd",SK Networks Company Limited,0.0
+2683,Industrials,011200_KS,000720_KS,0.0,0.0,0.0,0.0,0.0,"Hyundai Merchant Marine Co.,Ltd","Hyundai Engineering & Construction Co., Ltd",0.0
+2684,Industrials,012450_KS,180640_KS,0.0,0.0,0.0,0.0,0.0,"Hanwha Aerospace Co., Ltd",Hanjin Kal Corp,0.0
+2685,Industrials,012450_KS,028670_KS,0.0,0.0,0.0,0.0,0.0,"Hanwha Aerospace Co., Ltd","Pan Ocean Co., Ltd",0.0
+2686,Industrials,012450_KS,012750_KS,0.0,0.0,0.0,0.0,0.0,"Hanwha Aerospace Co., Ltd",S-1 Corporation,0.0
+2687,Industrials,012450_KS,003490_KS,0.0,0.0,0.0,0.0,0.0,"Hanwha Aerospace Co., Ltd","Korean Air Lines Co.,Ltd",0.0
+2688,Industrials,012450_KS,000120_KS,0.0,0.0,0.0,0.0,0.0,"Hanwha Aerospace Co., Ltd",CJ Logistics Corporation,0.0
+2689,Industrials,011200_KS,034730_KS,0.0,0.0,0.0,0.0,0.0,"Hyundai Merchant Marine Co.,Ltd","SK Holdings Co., Ltd",0.0
+2690,Industrials,011200_KS,373220_KS,0.0,0.0,0.0,0.0,0.0,"Hyundai Merchant Marine Co.,Ltd",LG ENERGY SOLUTION LTD,0.0
+2691,Industrials,011200_KS,112610_KS,0.0,0.0,0.0,0.0,0.0,"Hyundai Merchant Marine Co.,Ltd",Cs Wind Corp,0.0
+2692,Industrials,011200_KS,004990_KS,0.0,0.0,0.0,0.0,0.0,"Hyundai Merchant Marine Co.,Ltd",LOTTE Corporation,0.0
+2693,Industrials,011200_KS,003550_KS,0.0,0.0,0.0,0.0,0.0,"Hyundai Merchant Marine Co.,Ltd",LG Corp,0.0
+2694,Industrials,010620_KS,180640_KS,0.0,0.0,0.0,0.0,0.0,"Hyundai Mipo Dockyard Co., Ltd",Hanjin Kal Corp,0.0
+2695,Industrials,000120_KS,028050_KS,0.0,0.0,0.0,0.0,0.0,CJ Logistics Corporation,"Samsung Engineering Co., Ltd",0.0
+2696,Industrials,000120_KS,006260_KS,0.0,0.0,0.0,0.0,0.0,CJ Logistics Corporation,LS Corp,0.0
+2697,Industrials,000120_KS,001740_KS,0.0,0.0,0.0,0.0,0.0,CJ Logistics Corporation,SK Networks Company Limited,0.0
+2698,Industrials,000120_KS,373220_KS,0.0,0.0,0.0,0.0,0.0,CJ Logistics Corporation,LG ENERGY SOLUTION LTD,0.0
+2699,Industrials,000120_KS,079550_KS,0.0,0.0,0.0,0.0,0.0,CJ Logistics Corporation,LIG Nex1 Co Ltd,0.0
+2700,Industrials,000150_KS,001740_KS,0.0,0.0,0.0,0.0,0.0,Doosan Corporation,SK Networks Company Limited,0.0
+2701,Industrials,003550_KS,052690_KS,0.0,0.0,0.0,0.0,0.0,LG Corp,"KEPCO Engineering & Construction Company, Inc",0.0
+2702,Industrials,003550_KS,034020_KS,0.0,0.0,0.0,0.0,0.0,LG Corp,"Doosan Heavy Industries & Construction Co., Ltd",0.0
+2703,Industrials,003550_KS,028050_KS,0.0,0.0,0.0,0.0,0.0,LG Corp,"Samsung Engineering Co., Ltd",0.0
+2704,Industrials,003550_KS,004990_KS,0.0,0.0,0.0,0.0,0.0,LG Corp,LOTTE Corporation,0.0
+2705,Industrials,003550_KS,373220_KS,0.0,0.0,0.0,0.0,0.0,LG Corp,LG ENERGY SOLUTION LTD,0.0
+2706,Industrials,003490_KS,079550_KS,0.0,0.0,0.0,0.0,0.0,"Korean Air Lines Co.,Ltd",LIG Nex1 Co Ltd,0.0
+2707,Industrials,003490_KS,373220_KS,0.0,0.0,0.0,0.0,0.0,"Korean Air Lines Co.,Ltd",LG ENERGY SOLUTION LTD,0.0
+2708,Industrials,003490_KS,010120_KS,0.0,0.0,0.0,0.0,0.0,"Korean Air Lines Co.,Ltd","LSIS Co., Ltd",0.0
+2709,Industrials,003490_KS,003550_KS,0.0,0.0,0.0,0.0,0.0,"Korean Air Lines Co.,Ltd",LG Corp,0.0
+2710,Industrials,003490_KS,000720_KS,0.0,0.0,0.0,0.0,0.0,"Korean Air Lines Co.,Ltd","Hyundai Engineering & Construction Co., Ltd",0.0
+2711,Industrials,003490_KS,042670_KS,0.0,0.0,0.0,0.0,0.0,"Korean Air Lines Co.,Ltd","Doosan Infracore Co., Ltd",0.0
+2712,Industrials,003490_KS,047050_KS,0.0,0.0,0.0,0.0,0.0,"Korean Air Lines Co.,Ltd",Posco Daewoo Corporation,0.0
+2713,Industrials,001740_KS,028670_KS,0.0,0.0,0.0,0.0,0.0,SK Networks Company Limited,"Pan Ocean Co., Ltd",0.0
+2714,Industrials,001740_KS,011200_KS,0.0,0.0,0.0,0.0,0.0,SK Networks Company Limited,"Hyundai Merchant Marine Co.,Ltd",0.0
+2715,Industrials,001740_KS,003490_KS,0.0,0.0,0.0,0.0,0.0,SK Networks Company Limited,"Korean Air Lines Co.,Ltd",0.0
+2716,Industrials,001740_KS,000150_KS,0.0,0.0,0.0,0.0,0.0,SK Networks Company Limited,Doosan Corporation,0.0
+2717,Industrials,001740_KS,052690_KS,0.0,0.0,0.0,0.0,0.0,SK Networks Company Limited,"KEPCO Engineering & Construction Company, Inc",0.0
+2718,Industrials,000720_KS,373220_KS,0.0,0.0,0.0,0.0,0.0,"Hyundai Engineering & Construction Co., Ltd",LG ENERGY SOLUTION LTD,0.0
+2719,Industrials,001040_KS,010620_KS,0.0,0.0,0.0,0.0,0.0,CJ Corporation,"Hyundai Mipo Dockyard Co., Ltd",0.0
+2720,Industrials,001040_KS,112610_KS,0.0,0.0,0.0,0.0,0.0,CJ Corporation,Cs Wind Corp,0.0
+2721,Industrials,001440_KS,373220_KS,0.0,0.0,0.0,0.0,0.0,"Taihan Electric Wire Co., Ltd",LG ENERGY SOLUTION LTD,0.0
+2722,Industrials,001440_KS,047040_KS,0.0,0.0,0.0,0.0,0.0,"Taihan Electric Wire Co., Ltd","Daewoo Engineering & Construction Co., Ltd",0.0
+2723,Industrials,001440_KS,017800_KS,0.0,0.0,0.0,0.0,0.0,"Taihan Electric Wire Co., Ltd","Hyundai Elevator Co., Ltd",0.0
+2724,Industrials,001440_KS,010780_KS,0.0,0.0,0.0,0.0,0.0,"Taihan Electric Wire Co., Ltd","IS DongSeo Co., Ltd",0.0
+2725,Industrials,001440_KS,000880_KS,0.0,0.0,0.0,0.0,0.0,"Taihan Electric Wire Co., Ltd",Hanwha Corporation,0.0
+2726,Industrials,000720_KS,011200_KS,0.0,0.0,0.0,0.0,0.0,"Hyundai Engineering & Construction Co., Ltd","Hyundai Merchant Marine Co.,Ltd",0.0
+2727,Industrials,000880_KS,373220_KS,0.0,0.0,0.0,0.0,0.0,Hanwha Corporation,LG ENERGY SOLUTION LTD,0.0
+2728,Industrials,000880_KS,052690_KS,0.0,0.0,0.0,0.0,0.0,Hanwha Corporation,"KEPCO Engineering & Construction Company, Inc",0.0
+2729,Industrials,000880_KS,012750_KS,0.0,0.0,0.0,0.0,0.0,Hanwha Corporation,S-1 Corporation,0.0
+2730,Industrials,000720_KS,051600_KS,0.0,0.0,0.0,0.0,0.0,"Hyundai Engineering & Construction Co., Ltd","KEPCO Plant Service & Engineering Co.,Ltd",0.0
+2731,Industrials,001040_KS,001740_KS,0.0,0.0,0.0,0.0,0.0,CJ Corporation,SK Networks Company Limited,0.0
+2732,Financials,039490_KS,138040_KS,0.0,0.0,0.0,0.0,0.0,"Kiwoom Securities Co., Ltd",Meritz Financial Group Inc,0.0
+2733,Financials,138040_KS,377300_KS,0.0,0.0,0.0,0.0,0.0,Meritz Financial Group Inc,KakaoPay Corp,0.0
+2734,Energy,096770_KS,010950_KS,0.0,0.0,0.0,0.0,0.0,"SK Innovation Co., Ltd",S-Oil Corporation,0.0
+2735,Financials,138040_KS,139130_KS,0.0,0.0,0.0,0.0,0.0,Meritz Financial Group Inc,"DGB Financial Group Co., LTD",0.0
+2736,Financials,138040_KS,055550_KS,0.0,0.0,0.0,0.0,0.0,Meritz Financial Group Inc,"Shinhan Financial Group Co., Ltd",0.0
+2737,Financials,138040_KS,039490_KS,0.0,0.0,0.0,0.0,0.0,Meritz Financial Group Inc,"Kiwoom Securities Co., Ltd",0.0
+2738,Financials,138040_KS,029780_KS,0.0,0.0,0.0,0.0,0.0,Meritz Financial Group Inc,"Samsung Card Co., Ltd",0.0
+2739,Financials,175330_KS,323410_KS,0.0,0.0,0.0,0.0,0.0,"JB Financial Group Co., Ltd",Kakaobank Corp,0.0
+2740,Financials,032830_KS,377300_KS,0.0,0.0,0.0,0.0,0.0,"Samsung Life Insurance Co., Ltd",KakaoPay Corp,0.0
+2741,Financials,071050_KS,138040_KS,0.0,0.0,0.0,0.0,0.0,"Korea Investment Holdings Co., Ltd",Meritz Financial Group Inc,0.0
+2742,Health Care,003090_KS,207940_KS,0.0,0.0,0.0,0.0,0.0,"Daewoong Co., Ltd","Samsung Biologics Co.,Ltd",0.0
+2743,Industrials,402340_KS,373220_KS,0.0,0.0,0.0,0.0,0.0,SK SQUARE CO LTD,LG ENERGY SOLUTION LTD,0.0
+2744,Industrials,375500_KS,373220_KS,0.0,0.0,0.0,0.0,0.0,Dl E&C Ltd,LG ENERGY SOLUTION LTD,0.0
+2745,Industrials,373220_KS,047050_KS,0.0,0.0,0.0,0.0,0.0,LG ENERGY SOLUTION LTD,Posco Daewoo Corporation,0.0
+2746,Industrials,373220_KS,402340_KS,0.0,0.0,0.0,0.0,0.0,LG ENERGY SOLUTION LTD,SK SQUARE CO LTD,0.0
+2747,Industrials,373220_KS,042670_KS,0.0,0.0,0.0,0.0,0.0,LG ENERGY SOLUTION LTD,"Doosan Infracore Co., Ltd",0.0
+2748,Industrials,373220_KS,028260_KS,0.0,0.0,0.0,0.0,0.0,LG ENERGY SOLUTION LTD,Samsung C&T Corporation,0.0
+2749,Industrials,373220_KS,020560_KS,0.0,0.0,0.0,0.0,0.0,LG ENERGY SOLUTION LTD,"Asiana Airlines, Inc",0.0
+2750,Industrials,373220_KS,012750_KS,0.0,0.0,0.0,0.0,0.0,LG ENERGY SOLUTION LTD,S-1 Corporation,0.0
+2751,Industrials,373220_KS,010780_KS,0.0,0.0,0.0,0.0,0.0,LG ENERGY SOLUTION LTD,"IS DongSeo Co., Ltd",0.0
+2752,Industrials,373220_KS,010140_KS,0.0,0.0,0.0,0.0,0.0,LG ENERGY SOLUTION LTD,"Samsung Heavy Industries Co., Ltd",0.0
+2753,Industrials,373220_KS,375500_KS,0.0,0.0,0.0,0.0,0.0,LG ENERGY SOLUTION LTD,Dl E&C Ltd,0.0
+2754,Industrials,373220_KS,336260_KS,0.0,0.0,0.0,0.0,0.0,LG ENERGY SOLUTION LTD,Doosan Fuel Cell Ltd,0.0
+2755,Industrials,373220_KS,294870_KS,0.0,0.0,0.0,0.0,0.0,LG ENERGY SOLUTION LTD,Hyundai Development Company,0.0
+2756,Industrials,373220_KS,112610_KS,0.0,0.0,0.0,0.0,0.0,LG ENERGY SOLUTION LTD,Cs Wind Corp,0.0
+2757,Industrials,373220_KS,086280_KS,0.0,0.0,0.0,0.0,0.0,LG ENERGY SOLUTION LTD,"Hyundai Glovis Co., Ltd",0.0
+2758,Industrials,373220_KS,078930_KS,0.0,0.0,0.0,0.0,0.0,LG ENERGY SOLUTION LTD,GS Holdings Corp,0.0
+2759,Industrials,373220_KS,052690_KS,0.0,0.0,0.0,0.0,0.0,LG ENERGY SOLUTION LTD,"KEPCO Engineering & Construction Company, Inc",0.0
+2760,Industrials,373220_KS,009540_KS,0.0,0.0,0.0,0.0,0.0,LG ENERGY SOLUTION LTD,HD Korea Shipbuilding & Offshore Engineering Co Lt,0.0
+2761,Industrials,112610_KS,373220_KS,0.0,0.0,0.0,0.0,0.0,Cs Wind Corp,LG ENERGY SOLUTION LTD,0.0
+2762,Industrials,373220_KS,006260_KS,0.0,0.0,0.0,0.0,0.0,LG ENERGY SOLUTION LTD,LS Corp,0.0
+2763,Industrials,373220_KS,003490_KS,0.0,0.0,0.0,0.0,0.0,LG ENERGY SOLUTION LTD,"Korean Air Lines Co.,Ltd",0.0
+2764,Industrials,373220_KS,001120_KS,0.0,0.0,0.0,0.0,0.0,LG ENERGY SOLUTION LTD,LG International Corp,0.0
+2765,Industrials,373220_KS,000120_KS,0.0,0.0,0.0,0.0,0.0,LG ENERGY SOLUTION LTD,CJ Logistics Corporation,0.0
+2766,Industrials,180640_KS,028260_KS,0.0,0.0,0.0,0.0,0.0,Hanjin Kal Corp,Samsung C&T Corporation,0.0
+2767,Industrials,180640_KS,012450_KS,0.0,0.0,0.0,0.0,0.0,Hanjin Kal Corp,"Hanwha Aerospace Co., Ltd",0.0
+2768,Industrials,180640_KS,010620_KS,0.0,0.0,0.0,0.0,0.0,Hanjin Kal Corp,"Hyundai Mipo Dockyard Co., Ltd",0.0
+2769,Industrials,180640_KS,004990_KS,0.0,0.0,0.0,0.0,0.0,Hanjin Kal Corp,LOTTE Corporation,0.0
+2770,Industrials,180640_KS,001440_KS,0.0,0.0,0.0,0.0,0.0,Hanjin Kal Corp,"Taihan Electric Wire Co., Ltd",0.0
+2771,Industrials,180640_KS,001040_KS,0.0,0.0,0.0,0.0,0.0,Hanjin Kal Corp,CJ Corporation,0.0
+2772,Industrials,180640_KS,047040_KS,0.0,0.0,0.0,0.0,0.0,Hanjin Kal Corp,"Daewoo Engineering & Construction Co., Ltd",0.0
+2773,Industrials,180640_KS,047050_KS,0.0,0.0,0.0,0.0,0.0,Hanjin Kal Corp,Posco Daewoo Corporation,0.0
+2774,Industrials,180640_KS,402340_KS,0.0,0.0,0.0,0.0,0.0,Hanjin Kal Corp,SK SQUARE CO LTD,0.0
+2775,Industrials,180640_KS,373220_KS,0.0,0.0,0.0,0.0,0.0,Hanjin Kal Corp,LG ENERGY SOLUTION LTD,0.0
+2776,Industrials,180640_KS,112610_KS,0.0,0.0,0.0,0.0,0.0,Hanjin Kal Corp,Cs Wind Corp,0.0
+2777,Industrials,180640_KS,078930_KS,0.0,0.0,0.0,0.0,0.0,Hanjin Kal Corp,GS Holdings Corp,0.0
+2778,Industrials,180640_KS,051600_KS,0.0,0.0,0.0,0.0,0.0,Hanjin Kal Corp,"KEPCO Plant Service & Engineering Co.,Ltd",0.0
+2779,Industrials,112610_KS,051600_KS,0.0,0.0,0.0,0.0,0.0,Cs Wind Corp,"KEPCO Plant Service & Engineering Co.,Ltd",0.0
+2780,Industrials,086280_KS,004990_KS,0.0,0.0,0.0,0.0,0.0,"Hyundai Glovis Co., Ltd",LOTTE Corporation,0.0
+2781,Industrials,112610_KS,180640_KS,0.0,0.0,0.0,0.0,0.0,Cs Wind Corp,Hanjin Kal Corp,0.0
+2782,Industrials,112610_KS,078930_KS,0.0,0.0,0.0,0.0,0.0,Cs Wind Corp,GS Holdings Corp,0.0
+2783,Industrials,086280_KS,373220_KS,0.0,0.0,0.0,0.0,0.0,"Hyundai Glovis Co., Ltd",LG ENERGY SOLUTION LTD,0.0
+2784,Industrials,112610_KS,028260_KS,0.0,0.0,0.0,0.0,0.0,Cs Wind Corp,Samsung C&T Corporation,0.0
+2785,Industrials,112610_KS,012750_KS,0.0,0.0,0.0,0.0,0.0,Cs Wind Corp,S-1 Corporation,0.0
+2786,Industrials,112610_KS,004990_KS,0.0,0.0,0.0,0.0,0.0,Cs Wind Corp,LOTTE Corporation,0.0
+2787,Industrials,112610_KS,001040_KS,0.0,0.0,0.0,0.0,0.0,Cs Wind Corp,CJ Corporation,0.0
+2788,Industrials,017800_KS,373220_KS,0.0,0.0,0.0,0.0,0.0,"Hyundai Elevator Co., Ltd",LG ENERGY SOLUTION LTD,0.0
+2789,Industrials,017800_KS,078930_KS,0.0,0.0,0.0,0.0,0.0,"Hyundai Elevator Co., Ltd",GS Holdings Corp,0.0
+2790,Industrials,017800_KS,004990_KS,0.0,0.0,0.0,0.0,0.0,"Hyundai Elevator Co., Ltd",LOTTE Corporation,0.0
+2791,Industrials,020560_KS,006360_KS,0.0,0.0,0.0,0.0,0.0,"Asiana Airlines, Inc",GS Engineering & Construction Corporation,0.0
+2792,Industrials,052690_KS,000880_KS,0.0,0.0,0.0,0.0,0.0,"KEPCO Engineering & Construction Company, Inc",Hanwha Corporation,0.0
+2793,Industrials,079550_KS,000120_KS,0.0,0.0,0.0,0.0,0.0,LIG Nex1 Co Ltd,CJ Logistics Corporation,0.0
+2794,Industrials,079550_KS,003490_KS,0.0,0.0,0.0,0.0,0.0,LIG Nex1 Co Ltd,"Korean Air Lines Co.,Ltd",0.0
+2795,Industrials,079550_KS,373220_KS,0.0,0.0,0.0,0.0,0.0,LIG Nex1 Co Ltd,LG ENERGY SOLUTION LTD,0.0
+2796,Industrials,079550_KS,078930_KS,0.0,0.0,0.0,0.0,0.0,LIG Nex1 Co Ltd,GS Holdings Corp,0.0
+2797,Industrials,052690_KS,373220_KS,0.0,0.0,0.0,0.0,0.0,"KEPCO Engineering & Construction Company, Inc",LG ENERGY SOLUTION LTD,0.0
+2798,Industrials,052690_KS,047040_KS,0.0,0.0,0.0,0.0,0.0,"KEPCO Engineering & Construction Company, Inc","Daewoo Engineering & Construction Co., Ltd",0.0
+2799,Industrials,052690_KS,012750_KS,0.0,0.0,0.0,0.0,0.0,"KEPCO Engineering & Construction Company, Inc",S-1 Corporation,0.0
+2800,Industrials,052690_KS,010120_KS,0.0,0.0,0.0,0.0,0.0,"KEPCO Engineering & Construction Company, Inc","LSIS Co., Ltd",0.0
+2801,Industrials,064350_KS,373220_KS,0.0,0.0,0.0,0.0,0.0,Hyundai Rotem Company,LG ENERGY SOLUTION LTD,0.0
+2802,Industrials,064350_KS,011200_KS,0.0,0.0,0.0,0.0,0.0,Hyundai Rotem Company,"Hyundai Merchant Marine Co.,Ltd",0.0
+2803,Industrials,064350_KS,006360_KS,0.0,0.0,0.0,0.0,0.0,Hyundai Rotem Company,GS Engineering & Construction Corporation,0.0
+2804,Industrials,064350_KS,078930_KS,0.0,0.0,0.0,0.0,0.0,Hyundai Rotem Company,GS Holdings Corp,0.0
+2805,Industrials,052690_KS,004800_KS,0.0,0.0,0.0,0.0,0.0,"KEPCO Engineering & Construction Company, Inc",Hyosung Corporation,0.0
+2806,Industrials,028260_KS,180640_KS,0.0,0.0,0.0,0.0,0.0,Samsung C&T Corporation,Hanjin Kal Corp,0.0
+2807,Industrials,028260_KS,047810_KS,0.0,0.0,0.0,0.0,0.0,Samsung C&T Corporation,"Korea Aerospace Industries, Ltd",0.0
+2808,Industrials,028260_KS,012450_KS,0.0,0.0,0.0,0.0,0.0,Samsung C&T Corporation,"Hanwha Aerospace Co., Ltd",0.0
+2809,Industrials,028260_KS,001740_KS,0.0,0.0,0.0,0.0,0.0,Samsung C&T Corporation,SK Networks Company Limited,0.0
+2810,Industrials,028050_KS,112610_KS,0.0,0.0,0.0,0.0,0.0,"Samsung Engineering Co., Ltd",Cs Wind Corp,0.0
+2811,Industrials,028050_KS,012750_KS,0.0,0.0,0.0,0.0,0.0,"Samsung Engineering Co., Ltd",S-1 Corporation,0.0
+2812,Industrials,028670_KS,373220_KS,0.0,0.0,0.0,0.0,0.0,"Pan Ocean Co., Ltd",LG ENERGY SOLUTION LTD,0.0
+2813,Industrials,028670_KS,180640_KS,0.0,0.0,0.0,0.0,0.0,"Pan Ocean Co., Ltd",Hanjin Kal Corp,0.0
+2814,Industrials,028670_KS,012750_KS,0.0,0.0,0.0,0.0,0.0,"Pan Ocean Co., Ltd",S-1 Corporation,0.0
+2815,Industrials,034020_KS,003550_KS,0.0,0.0,0.0,0.0,0.0,"Doosan Heavy Industries & Construction Co., Ltd",LG Corp,0.0
+2816,Industrials,034020_KS,000880_KS,0.0,0.0,0.0,0.0,0.0,"Doosan Heavy Industries & Construction Co., Ltd",Hanwha Corporation,0.0
+2817,Industrials,034020_KS,012750_KS,0.0,0.0,0.0,0.0,0.0,"Doosan Heavy Industries & Construction Co., Ltd",S-1 Corporation,0.0
+2818,Industrials,012750_KS,020560_KS,0.0,0.0,0.0,0.0,0.0,S-1 Corporation,"Asiana Airlines, Inc",0.0
+2819,Industrials,028050_KS,001740_KS,0.0,0.0,0.0,0.0,0.0,"Samsung Engineering Co., Ltd",SK Networks Company Limited,0.0
+2820,Industrials,012750_KS,001040_KS,0.0,0.0,0.0,0.0,0.0,S-1 Corporation,CJ Corporation,0.0
+2821,Industrials,012750_KS,010140_KS,0.0,0.0,0.0,0.0,0.0,S-1 Corporation,"Samsung Heavy Industries Co., Ltd",0.0
+2822,Industrials,012750_KS,012450_KS,0.0,0.0,0.0,0.0,0.0,S-1 Corporation,"Hanwha Aerospace Co., Ltd",0.0
+2823,Industrials,012750_KS,078930_KS,0.0,0.0,0.0,0.0,0.0,S-1 Corporation,GS Holdings Corp,0.0
+2824,Industrials,012750_KS,052690_KS,0.0,0.0,0.0,0.0,0.0,S-1 Corporation,"KEPCO Engineering & Construction Company, Inc",0.0
+2825,Industrials,012750_KS,051600_KS,0.0,0.0,0.0,0.0,0.0,S-1 Corporation,"KEPCO Plant Service & Engineering Co.,Ltd",0.0
+2826,Industrials,012750_KS,034020_KS,0.0,0.0,0.0,0.0,0.0,S-1 Corporation,"Doosan Heavy Industries & Construction Co., Ltd",0.0
+2827,Industrials,012750_KS,028670_KS,0.0,0.0,0.0,0.0,0.0,S-1 Corporation,"Pan Ocean Co., Ltd",0.0
+2828,Industrials,034730_KS,336260_KS,0.0,0.0,0.0,0.0,0.0,"SK Holdings Co., Ltd",Doosan Fuel Cell Ltd,0.0
+2829,Industrials,034730_KS,112610_KS,0.0,0.0,0.0,0.0,0.0,"SK Holdings Co., Ltd",Cs Wind Corp,0.0
+2830,Industrials,034730_KS,051600_KS,0.0,0.0,0.0,0.0,0.0,"SK Holdings Co., Ltd","KEPCO Plant Service & Engineering Co.,Ltd",0.0
+2831,Industrials,034730_KS,042670_KS,0.0,0.0,0.0,0.0,0.0,"SK Holdings Co., Ltd","Doosan Infracore Co., Ltd",0.0
+2832,Industrials,034730_KS,011200_KS,0.0,0.0,0.0,0.0,0.0,"SK Holdings Co., Ltd","Hyundai Merchant Marine Co.,Ltd",0.0
+2833,Industrials,034730_KS,001440_KS,0.0,0.0,0.0,0.0,0.0,"SK Holdings Co., Ltd","Taihan Electric Wire Co., Ltd",0.0
+2834,Financials,323410_KS,138040_KS,0.0,0.0,0.0,0.0,0.0,Kakaobank Corp,Meritz Financial Group Inc,0.0
+2835,Financials,377300_KS,138040_KS,0.0,0.0,0.0,0.0,0.0,KakaoPay Corp,Meritz Financial Group Inc,0.0
+2836,Financials,377300_KS,055550_KS,0.0,0.0,0.0,0.0,0.0,KakaoPay Corp,"Shinhan Financial Group Co., Ltd",0.0
+2837,Financials,377300_KS,006800_KS,0.0,0.0,0.0,0.0,0.0,KakaoPay Corp,"Mirae Asset Daewoo Co., Ltd",0.0
+2838,Financials,377300_KS,001450_KS,0.0,0.0,0.0,0.0,0.0,KakaoPay Corp,Hyundai Marine & Fire Insurance Co. Ltd,0.0
+2839,Industrials,329180_KS,373220_KS,0.0,0.0,0.0,0.0,0.0,"Hyundai Heavy Industries Co., Ltd",LG ENERGY SOLUTION LTD,0.0
+2840,Industrials,272210_KS,051600_KS,0.0,0.0,0.0,0.0,0.0,Hanwha Systems Ltd,"KEPCO Plant Service & Engineering Co.,Ltd",0.0
+2841,Industrials,272210_KS,028260_KS,0.0,0.0,0.0,0.0,0.0,Hanwha Systems Ltd,Samsung C&T Corporation,0.0
+2842,Industrials,272210_KS,004990_KS,0.0,0.0,0.0,0.0,0.0,Hanwha Systems Ltd,LOTTE Corporation,0.0
+2843,Financials,001450_KS,377300_KS,0.0,0.0,0.0,0.0,0.0,Hyundai Marine & Fire Insurance Co. Ltd,KakaoPay Corp,0.0
+2844,Financials,024110_KS,323410_KS,0.0,0.0,0.0,0.0,0.0,Industrial Bank of Korea,Kakaobank Corp,0.0
+2845,Financials,005940_KS,377300_KS,0.0,0.0,0.0,0.0,0.0,"NH Investment & Securities Co., Ltd",KakaoPay Corp,0.0
+2846,Communication Services,030200_KS,036570_KS,0.0,0.0,0.0,0.0,0.0,KT Corporation,Ncsoft Corporation,0.0
+2847,Materials,103140_KS,285130_KS,0.0,0.0,0.0,0.0,0.0,Poongsan Corporation,"SK Chemicals Co., Ltd",0.0
+2848,Materials,103140_KS,093370_KS,0.0,0.0,0.0,0.0,0.0,Poongsan Corporation,"Foosung Co., Ltd",0.0
+2849,Communication Services,352820_KS,035420_KS,0.0,0.0,0.0,0.0,0.0,Hybe Ltd,NAVER Corporation,0.0
+2850,Communication Services,036570_KS,032640_KS,0.0,0.0,0.0,0.0,0.0,Ncsoft Corporation,LG Uplus Corp,0.0
+2851,Communication Services,036570_KS,352820_KS,0.0,0.0,0.0,0.0,0.0,Ncsoft Corporation,Hybe Ltd,0.0
+2852,Communication Services,251270_KS,352820_KS,0.0,0.0,0.0,0.0,0.0,Netmarble Corporation,Hybe Ltd,0.0
+2853,Communication Services,251270_KS,017670_KS,0.0,0.0,0.0,0.0,0.0,Netmarble Corporation,"SK Telecom Co., Ltd",0.0
+2854,Communication Services,251270_KS,030200_KS,0.0,0.0,0.0,0.0,0.0,Netmarble Corporation,KT Corporation,0.0
+2855,Communication Services,035420_KS,352820_KS,0.0,0.0,0.0,0.0,0.0,NAVER Corporation,Hybe Ltd,0.0
+2856,Communication Services,032640_KS,035420_KS,0.0,0.0,0.0,0.0,0.0,LG Uplus Corp,NAVER Corporation,0.0
+2857,Communication Services,032640_KS,251270_KS,0.0,0.0,0.0,0.0,0.0,LG Uplus Corp,Netmarble Corporation,0.0
+2858,Materials,016380_KS,298020_KS,0.0,0.0,0.0,0.0,0.0,Kg Dongbusteel Ltd,Hyosung Tnc Corp,0.0
+2859,Materials,051910_KS,010060_KS,0.0,0.0,0.0,0.0,0.0,"LG Chem, Ltd",OCI Company Ltd,0.0
+2860,Materials,051910_KS,006650_KS,0.0,0.0,0.0,0.0,0.0,"LG Chem, Ltd","Korea Petrochemical Ind. Co., Ltd",0.0
+2861,Materials,051910_KS,178920_KS,0.0,0.0,0.0,0.0,0.0,"LG Chem, Ltd",PI Advanced Materials Co Ltd,0.0
+2862,Materials,016380_KS,178920_KS,0.0,0.0,0.0,0.0,0.0,Kg Dongbusteel Ltd,PI Advanced Materials Co Ltd,0.0
+2863,Materials,014680_KS,000210_KS,0.0,0.0,0.0,0.0,0.0,"Hansol Chemical Co., Ltd","Daelim Industrial Co., Ltd",0.0
+2864,Materials,014680_KS,011170_KS,0.0,0.0,0.0,0.0,0.0,"Hansol Chemical Co., Ltd",Lotte Chemical Corporation,0.0
+2865,Materials,014680_KS,003240_KS,0.0,0.0,0.0,0.0,0.0,"Hansol Chemical Co., Ltd","Taekwang Industrial Co., Ltd",0.0
+2866,Materials,014680_KS,001230_KS,0.0,0.0,0.0,0.0,0.0,"Hansol Chemical Co., Ltd",Dongkuk Steel Mill Company Limited,0.0
+2867,Materials,069260_KS,014820_KS,0.0,0.0,0.0,0.0,0.0,Huchems Fine Chemical Corporation,Dongwon Systems Corporation,0.0
+2868,Materials,093370_KS,010060_KS,0.0,0.0,0.0,0.0,0.0,"Foosung Co., Ltd",OCI Company Ltd,0.0
+2869,Materials,093370_KS,069260_KS,0.0,0.0,0.0,0.0,0.0,"Foosung Co., Ltd",Huchems Fine Chemical Corporation,0.0
+2870,Materials,093370_KS,298050_KS,0.0,0.0,0.0,0.0,0.0,"Foosung Co., Ltd",Hyosung Advanced Materials Corp,0.0
+2871,Materials,093370_KS,103140_KS,0.0,0.0,0.0,0.0,0.0,"Foosung Co., Ltd",Poongsan Corporation,0.0
+2872,Materials,069260_KS,285130_KS,0.0,0.0,0.0,0.0,0.0,Huchems Fine Chemical Corporation,"SK Chemicals Co., Ltd",0.0
+2873,Materials,069260_KS,001230_KS,0.0,0.0,0.0,0.0,0.0,Huchems Fine Chemical Corporation,Dongkuk Steel Mill Company Limited,0.0
+2874,Materials,361610_KS,011170_KS,0.0,0.0,0.0,0.0,0.0,Sk Ie Technology Ltd,Lotte Chemical Corporation,0.0
+2875,Materials,285130_KS,003670_KS,0.0,0.0,0.0,0.0,0.0,"SK Chemicals Co., Ltd",Posco Chemical Co Ltd,0.0
+2876,Materials,178920_KS,009830_KS,0.0,0.0,0.0,0.0,0.0,PI Advanced Materials Co Ltd,Hanwha Chemical Corporation,0.0
+2877,Materials,178920_KS,285130_KS,0.0,0.0,0.0,0.0,0.0,PI Advanced Materials Co Ltd,"SK Chemicals Co., Ltd",0.0
+2878,Materials,285130_KS,103140_KS,0.0,0.0,0.0,0.0,0.0,"SK Chemicals Co., Ltd",Poongsan Corporation,0.0
+2879,Materials,285130_KS,069260_KS,0.0,0.0,0.0,0.0,0.0,"SK Chemicals Co., Ltd",Huchems Fine Chemical Corporation,0.0
+2880,Materials,014820_KS,298020_KS,0.0,0.0,0.0,0.0,0.0,Dongwon Systems Corporation,Hyosung Tnc Corp,0.0
+2881,Materials,014820_KS,011780_KS,0.0,0.0,0.0,0.0,0.0,Dongwon Systems Corporation,"Kumho Petrochemical Co., Ltd",0.0
+2882,Materials,014820_KS,004000_KS,0.0,0.0,0.0,0.0,0.0,Dongwon Systems Corporation,"LOTTE Fine Chemical Co., Ltd",0.0
+2883,Health Care,185750_KS,207940_KS,0.0,0.0,0.0,0.0,0.0,Chong Kun Dang Pharmaceutical,"Samsung Biologics Co.,Ltd",0.0
+2884,Health Care,009420_KS,019170_KS,0.0,0.0,0.0,0.0,0.0,"HanAll Biopharma Co., Ltd",Shinpoong Pharmaceutical Ltd,0.0
+2885,Health Care,207940_KS,185750_KS,0.0,0.0,0.0,0.0,0.0,"Samsung Biologics Co.,Ltd",Chong Kun Dang Pharmaceutical,0.0
+2886,Materials,009830_KS,004000_KS,0.0,0.0,0.0,0.0,0.0,Hanwha Chemical Corporation,"LOTTE Fine Chemical Co., Ltd",0.0
+2887,Materials,009830_KS,011780_KS,0.0,0.0,0.0,0.0,0.0,Hanwha Chemical Corporation,"Kumho Petrochemical Co., Ltd",0.0
+2888,Health Care,019170_KS,009420_KS,0.0,0.0,0.0,0.0,0.0,Shinpoong Pharmaceutical Ltd,"HanAll Biopharma Co., Ltd",0.0
+2889,Materials,003240_KS,014680_KS,0.0,0.0,0.0,0.0,0.0,"Taekwang Industrial Co., Ltd","Hansol Chemical Co., Ltd",0.0
+2890,Materials,003240_KS,005490_KS,0.0,0.0,0.0,0.0,0.0,"Taekwang Industrial Co., Ltd",POSCO,0.0
+2891,Materials,003410_KS,002380_KS,0.0,0.0,0.0,0.0,0.0,"Ssangyong Cement Industrial Co., Ltd",KCC Corporation,0.0
+2892,Materials,003410_KS,010060_KS,0.0,0.0,0.0,0.0,0.0,"Ssangyong Cement Industrial Co., Ltd",OCI Company Ltd,0.0
+2893,Materials,003410_KS,298020_KS,0.0,0.0,0.0,0.0,0.0,"Ssangyong Cement Industrial Co., Ltd",Hyosung Tnc Corp,0.0
+2894,Materials,003670_KS,285130_KS,0.0,0.0,0.0,0.0,0.0,Posco Chemical Co Ltd,"SK Chemicals Co., Ltd",0.0
+2895,Materials,003670_KS,002380_KS,0.0,0.0,0.0,0.0,0.0,Posco Chemical Co Ltd,KCC Corporation,0.0
+2896,Materials,004000_KS,093370_KS,0.0,0.0,0.0,0.0,0.0,"LOTTE Fine Chemical Co., Ltd","Foosung Co., Ltd",0.0
+2897,Materials,004000_KS,009830_KS,0.0,0.0,0.0,0.0,0.0,"LOTTE Fine Chemical Co., Ltd",Hanwha Chemical Corporation,0.0
+2898,Materials,000210_KS,014680_KS,0.0,0.0,0.0,0.0,0.0,"Daelim Industrial Co., Ltd","Hansol Chemical Co., Ltd",0.0
+2899,Materials,000210_KS,005490_KS,0.0,0.0,0.0,0.0,0.0,"Daelim Industrial Co., Ltd",POSCO,0.0
+2900,Materials,004020_KS,298050_KS,0.0,0.0,0.0,0.0,0.0,Hyundai Steel Company,Hyosung Advanced Materials Corp,0.0
+2901,Materials,004000_KS,298050_KS,0.0,0.0,0.0,0.0,0.0,"LOTTE Fine Chemical Co., Ltd",Hyosung Advanced Materials Corp,0.0
+2902,Materials,361610_KS,000670_KS,0.0,0.0,0.0,0.0,0.0,Sk Ie Technology Ltd,Young Poong Corporation,0.0
+2903,Materials,298050_KS,004020_KS,0.0,0.0,0.0,0.0,0.0,Hyosung Advanced Materials Corp,Hyundai Steel Company,0.0
+2904,Materials,298050_KS,003410_KS,0.0,0.0,0.0,0.0,0.0,Hyosung Advanced Materials Corp,"Ssangyong Cement Industrial Co., Ltd",0.0
+2905,Materials,300720_KS,002380_KS,0.0,0.0,0.0,0.0,0.0,Hanilcmt Ltd,KCC Corporation,0.0
+2906,Materials,298020_KS,004020_KS,0.0,0.0,0.0,0.0,0.0,Hyosung Tnc Corp,Hyundai Steel Company,0.0
+2907,Materials,298020_KS,014820_KS,0.0,0.0,0.0,0.0,0.0,Hyosung Tnc Corp,Dongwon Systems Corporation,0.0
+2908,Materials,006650_KS,051910_KS,0.0,0.0,0.0,0.0,0.0,"Korea Petrochemical Ind. Co., Ltd","LG Chem, Ltd",0.0
+2909,Materials,006650_KS,014680_KS,0.0,0.0,0.0,0.0,0.0,"Korea Petrochemical Ind. Co., Ltd","Hansol Chemical Co., Ltd",0.0
+2910,Materials,011780_KS,093370_KS,0.0,0.0,0.0,0.0,0.0,"Kumho Petrochemical Co., Ltd","Foosung Co., Ltd",0.0
+2911,Materials,011780_KS,051910_KS,0.0,0.0,0.0,0.0,0.0,"Kumho Petrochemical Co., Ltd","LG Chem, Ltd",0.0
+2912,Materials,011780_KS,014820_KS,0.0,0.0,0.0,0.0,0.0,"Kumho Petrochemical Co., Ltd",Dongwon Systems Corporation,0.0
+2913,Materials,011780_KS,009830_KS,0.0,0.0,0.0,0.0,0.0,"Kumho Petrochemical Co., Ltd",Hanwha Chemical Corporation,0.0
+2914,Materials,010060_KS,003410_KS,0.0,0.0,0.0,0.0,0.0,OCI Company Ltd,"Ssangyong Cement Industrial Co., Ltd",0.0
+2915,Materials,010060_KS,002380_KS,0.0,0.0,0.0,0.0,0.0,OCI Company Ltd,KCC Corporation,0.0
+2916,Materials,010060_KS,000670_KS,0.0,0.0,0.0,0.0,0.0,OCI Company Ltd,Young Poong Corporation,0.0
+2917,Materials,010060_KS,093370_KS,0.0,0.0,0.0,0.0,0.0,OCI Company Ltd,"Foosung Co., Ltd",0.0
+2918,Materials,010060_KS,051910_KS,0.0,0.0,0.0,0.0,0.0,OCI Company Ltd,"LG Chem, Ltd",0.0
+2919,Materials,010060_KS,014820_KS,0.0,0.0,0.0,0.0,0.0,OCI Company Ltd,Dongwon Systems Corporation,0.0
+2920,Materials,005490_KS,000210_KS,0.0,0.0,0.0,0.0,0.0,POSCO,"Daelim Industrial Co., Ltd",0.0
+2921,Materials,005490_KS,006650_KS,0.0,0.0,0.0,0.0,0.0,POSCO,"Korea Petrochemical Ind. Co., Ltd",0.0
+2922,Materials,005490_KS,003240_KS,0.0,0.0,0.0,0.0,0.0,POSCO,"Taekwang Industrial Co., Ltd",0.0
+2923,Materials,005490_KS,002380_KS,0.0,0.0,0.0,0.0,0.0,POSCO,KCC Corporation,0.0
+2924,Materials,002380_KS,003410_KS,0.0,0.0,0.0,0.0,0.0,KCC Corporation,"Ssangyong Cement Industrial Co., Ltd",0.0
+2925,Materials,002380_KS,300720_KS,0.0,0.0,0.0,0.0,0.0,KCC Corporation,Hanilcmt Ltd,0.0
+2926,Materials,002380_KS,178920_KS,0.0,0.0,0.0,0.0,0.0,KCC Corporation,PI Advanced Materials Co Ltd,0.0
+2927,Materials,002380_KS,069260_KS,0.0,0.0,0.0,0.0,0.0,KCC Corporation,Huchems Fine Chemical Corporation,0.0
+2928,Materials,011170_KS,300720_KS,0.0,0.0,0.0,0.0,0.0,Lotte Chemical Corporation,Hanilcmt Ltd,0.0
+2929,Materials,010130_KS,014680_KS,0.0,0.0,0.0,0.0,0.0,"Korea Zinc Co., Ltd","Hansol Chemical Co., Ltd",0.0
+2930,Materials,011170_KS,016380_KS,0.0,0.0,0.0,0.0,0.0,Lotte Chemical Corporation,Kg Dongbusteel Ltd,0.0
+2931,Materials,011170_KS,014680_KS,0.0,0.0,0.0,0.0,0.0,Lotte Chemical Corporation,"Hansol Chemical Co., Ltd",0.0
+2932,Information Technology,006400_KS,000660_KS,0.0,0.0,0.0,0.0,0.0,"Samsung SDI Co., Ltd","SK hynix, Inc",0.0
+2933,Information Technology,000660_KS,000990_KS,0.0,0.0,0.0,0.0,0.0,"SK hynix, Inc","DB Hitek Co., Ltd",0.0
+2934,Information Technology,018260_KS,000990_KS,0.0,0.0,0.0,0.0,0.0,"Samsung SDS Co., Ltd","DB Hitek Co., Ltd",0.0
+2935,Information Technology,020150_KS,034220_KS,0.0,0.0,0.0,0.0,0.0,"ILJIN Materials Co., Ltd","LG Display Co., Ltd",0.0
+2936,Consumer Staples,280360_KS,006040_KS,0.0,0.0,0.0,0.0,0.0,Lotte Confectionery Co. Ltd,"Dongwon Industries Co., Ltd",0.0
+2937,Consumer Staples,280360_KS,033780_KS,0.0,0.0,0.0,0.0,0.0,Lotte Confectionery Co. Ltd,KT&G Corporation,0.0
+2938,Consumer Staples,280360_KS,161890_KS,0.0,0.0,0.0,0.0,0.0,Lotte Confectionery Co. Ltd,"Kolmar Korea Co., Ltd",0.0
+2939,Consumer Staples,192820_KS,282330_KS,0.0,0.0,0.0,0.0,0.0,Cosmax Inc,"BGF retail CO., LTD",0.0
+2940,Consumer Staples,271560_KS,007070_KS,0.0,0.0,0.0,0.0,0.0,Orion Corp,"GSRetail Co., Ltd",0.0
+2941,Consumer Staples,271560_KS,002790_KS,0.0,0.0,0.0,0.0,0.0,Orion Corp,AMOREPACIFIC Group,0.0
+2942,Consumer Staples,271560_KS,005300_KS,0.0,0.0,0.0,0.0,0.0,Orion Corp,"Lotte Chilsung Beverage Co.,Ltd",0.0
+2943,Consumer Staples,271560_KS,026960_KS,0.0,0.0,0.0,0.0,0.0,Orion Corp,Dongsuh,0.0
+2944,Consumer Staples,271560_KS,097950_KS,0.0,0.0,0.0,0.0,0.0,Orion Corp,CJ Cheiljedang Corporation,0.0
+2945,Consumer Staples,282330_KS,097950_KS,0.0,0.0,0.0,0.0,0.0,"BGF retail CO., LTD",CJ Cheiljedang Corporation,0.0
+2946,Consumer Staples,282330_KS,192820_KS,0.0,0.0,0.0,0.0,0.0,"BGF retail CO., LTD",Cosmax Inc,0.0
+2947,Consumer Staples,004370_KS,271560_KS,0.0,0.0,0.0,0.0,0.0,"Nongshim Co., Ltd",Orion Corp,0.0
+2948,Consumer Staples,004370_KS,001680_KS,0.0,0.0,0.0,0.0,0.0,"Nongshim Co., Ltd",Daesang Corporation,0.0
+2949,Consumer Staples,006040_KS,033780_KS,0.0,0.0,0.0,0.0,0.0,"Dongwon Industries Co., Ltd",KT&G Corporation,0.0
+2950,Consumer Staples,006040_KS,192820_KS,0.0,0.0,0.0,0.0,0.0,"Dongwon Industries Co., Ltd",Cosmax Inc,0.0
+2951,Consumer Staples,006040_KS,280360_KS,0.0,0.0,0.0,0.0,0.0,"Dongwon Industries Co., Ltd",Lotte Confectionery Co. Ltd,0.0
+2952,Consumer Staples,033780_KS,003230_KS,0.0,0.0,0.0,0.0,0.0,KT&G Corporation,"Samyang Foods Co., Ltd",0.0
+2953,Consumer Staples,033780_KS,001800_KS,0.0,0.0,0.0,0.0,0.0,KT&G Corporation,ORION Holdings Corp,0.0
+2954,Consumer Staples,033780_KS,006040_KS,0.0,0.0,0.0,0.0,0.0,KT&G Corporation,"Dongwon Industries Co., Ltd",0.0
+2955,Consumer Staples,033780_KS,090430_KS,0.0,0.0,0.0,0.0,0.0,KT&G Corporation,Amorepacific Corporation,0.0
+2956,Consumer Staples,001800_KS,004370_KS,0.0,0.0,0.0,0.0,0.0,ORION Holdings Corp,"Nongshim Co., Ltd",0.0
+2957,Consumer Staples,001800_KS,033780_KS,0.0,0.0,0.0,0.0,0.0,ORION Holdings Corp,KT&G Corporation,0.0
+2958,Consumer Staples,002790_KS,033780_KS,0.0,0.0,0.0,0.0,0.0,AMOREPACIFIC Group,KT&G Corporation,0.0
+2959,Consumer Staples,002790_KS,271560_KS,0.0,0.0,0.0,0.0,0.0,AMOREPACIFIC Group,Orion Corp,0.0
+2960,Consumer Staples,026960_KS,271560_KS,0.0,0.0,0.0,0.0,0.0,Dongsuh,Orion Corp,0.0
+2961,Consumer Staples,026960_KS,282330_KS,0.0,0.0,0.0,0.0,0.0,Dongsuh,"BGF retail CO., LTD",0.0
+2962,Consumer Staples,051900_KS,033780_KS,0.0,0.0,0.0,0.0,0.0,LG Household & Health Care Ltd,KT&G Corporation,0.0
+2963,Consumer Staples,051900_KS,282330_KS,0.0,0.0,0.0,0.0,0.0,LG Household & Health Care Ltd,"BGF retail CO., LTD",0.0
+2964,Consumer Staples,007070_KS,033780_KS,0.0,0.0,0.0,0.0,0.0,"GSRetail Co., Ltd",KT&G Corporation,0.0
+2965,Consumer Staples,007070_KS,271560_KS,0.0,0.0,0.0,0.0,0.0,"GSRetail Co., Ltd",Orion Corp,0.0
+2966,Consumer Staples,161890_KS,033780_KS,0.0,0.0,0.0,0.0,0.0,"Kolmar Korea Co., Ltd",KT&G Corporation,0.0
+2967,Consumer Staples,161890_KS,280360_KS,0.0,0.0,0.0,0.0,0.0,"Kolmar Korea Co., Ltd",Lotte Confectionery Co. Ltd,0.0
+2968,Consumer Staples,090430_KS,033780_KS,0.0,0.0,0.0,0.0,0.0,Amorepacific Corporation,KT&G Corporation,0.0
+2969,Consumer Staples,090430_KS,271560_KS,0.0,0.0,0.0,0.0,0.0,Amorepacific Corporation,Orion Corp,0.0
+2970,Consumer Staples,097950_KS,006040_KS,0.0,0.0,0.0,0.0,0.0,CJ Cheiljedang Corporation,"Dongwon Industries Co., Ltd",0.0

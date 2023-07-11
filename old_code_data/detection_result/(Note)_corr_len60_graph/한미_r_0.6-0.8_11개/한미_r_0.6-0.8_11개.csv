@@ -1,0 +1,12 @@
+ranking,sector,ticker1,ticker2,corr_px,corr_r,corr_px**2,corr_r**2,corr**2_sum,name1,name2,corr**2_w_sum
+1,Industrials,294870_KS,ROCK_UW,0.875837593,0.604176253,0.767091489,0.365028944,1.132120434,Hyundai Development Company,Gibraltar Industries Inc,0.445441453
+3,Energy,010950_KS,CPE_UN,0.80678403,0.606497085,0.650900472,0.367838714,1.018739186,S-Oil Corporation,Callon Petroleum,0.424451066
+15,Financials,138930_KS,BLX_UN,0.688709139,0.611933038,0.474320278,0.374462043,0.848782321,BNK Financial Group Inc,Banco Latinoamericano De Comercio,0.39443369
+29,Industrials,294870_KS,HDSN_UR,0.5467477,0.628296469,0.298933048,0.394756453,0.693689501,Hyundai Development Company,Hudson Technologies Inc,0.375591772
+65,Financials,SF_UN,105560_KS,0.559633384,0.603508962,0.313189525,0.364223068,0.677412593,Stifel Financial Corp,KB Financial Group Inc,0.354016359
+67,Consumer Discretionary,AN_UN,204320_KS,0.560166971,0.603331888,0.313787036,0.364009367,0.677796403,AutoNation Inc,Mando Corporation,0.353964901
+132,Financials,105560_KS,BLX_UN,0.4442452,0.601866263,0.197353798,0.362242998,0.559596796,KB Financial Group Inc,Banco Latinoamericano De Comercio,0.329265158
+146,Consumer Discretionary,204320_KS,PII_UN,0.288466419,0.620879925,0.083212875,0.385491881,0.468704756,Mando Corporation,Polaris Industries Inc,0.32503608
+183,Industrials,294870_KS,EMR_UN,-0.294451041,0.611689478,0.086701416,0.374164018,0.460865433,Hyundai Development Company,Emerson Electric,0.316671498
+274,Industrials,294870_KS,ASTE_UW,0.0,0.614653699,0.0,0.37779917,0.37779917,Hyundai Development Company,Astec Industries Inc,0.302239336
+369,Financials,139130_KS,BLX_UN,0.0,0.601503429,0.0,0.361806375,0.361806375,"DGB Financial Group Co., LTD",Banco Latinoamericano De Comercio,0.2894451

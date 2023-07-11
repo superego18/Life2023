@@ -1,0 +1,2 @@
+ranking,sector,ticker1,ticker2,corr_px,corr_r,corr_px**2,corr_r**2,corr**2_sum,name1,name2,corr**2_w_sum
+640,Industrials,402340_KS,010120_KS,0.759283042,-0.324462438,0.576510738,0.105275874,0.681786612,SK SQUARE CO LTD,"LSIS Co., Ltd",0.199522847
