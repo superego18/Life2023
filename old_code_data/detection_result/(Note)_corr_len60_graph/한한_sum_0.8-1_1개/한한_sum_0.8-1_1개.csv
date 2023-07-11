@@ -1,0 +1,2 @@
+ranking,sector,ticker1,ticker2,corr_px,corr_r,corr_px**2,corr_r**2,corr**2_sum,name1,name2,corr**2_w_sum
+1,Consumer Discretionary,005380_KS,000270_KS,0.978131482,0.874653339,0.956741197,0.765018463,1.72175966,Hyundai Motor Company,Kia Motors Corporation,0.80336301

@@ -1,0 +1,8 @@
+ranking,sector,ticker1,ticker2,corr_px,corr_r,corr_px**2,corr_r**2,corr**2_sum,name1,name2,corr**2_w_sum
+1,Consumer Discretionary,005380_KS,000270_KS,0.978131482,0.874653339,0.956741197,0.765018463,1.72175966,Hyundai Motor Company,Kia Motors Corporation,0.80336301
+2,Consumer Staples,002790_KS,090430_KS,0.967932981,0.872082423,0.936894255,0.760527752,1.697422007,AMOREPACIFIC Group,Amorepacific Corporation,0.795801053
+3,Industrials,006360_KS,047040_KS,0.717095386,0.882374356,0.514225792,0.778584505,1.292810297,GS Engineering & Construction Corporation,"Daewoo Engineering & Construction Co., Ltd",0.725712762
+4,Financials,001450_KS,005830_KS,0.881793361,0.830328762,0.777559532,0.689445854,1.467005386,Hyundai Marine & Fire Insurance Co. Ltd,"DB Insurance Co., Ltd",0.70706859
+16,Financials,105560_KS,055550_KS,0.576771837,0.815890547,0.332665752,0.665677385,0.998343137,KB Financial Group Inc,"Shinhan Financial Group Co., Ltd",0.599075058
+19,Financials,086790_KS,316140_KS,0.492452881,0.814676463,0.24250984,0.663697739,0.906207579,Hana Financial Group Inc,Woori Financial Group Inc,0.579460159
+20,Financials,105560_KS,316140_KS,0.486611738,0.813794565,0.236790984,0.662261594,0.899052578,KB Financial Group Inc,Woori Financial Group Inc,0.577167472
