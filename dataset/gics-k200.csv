@@ -1,0 +1,201 @@
+ticker,GICS_SECTOR_NAME,GICS_INDUSTRY_GROUP_NAME,GICS_INDUSTRY_NAME,GICS_SUB_INDUSTRY_NAME
+000080 KS Equity,Consumer Staples,"Food, Beverage & Tobacco",Beverages,Distillers & Vintners
+000100 KS Equity,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+000120 KS Equity,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics
+000150 KS Equity,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+000210 KS Equity,Materials,Materials,Chemicals,Commodity Chemicals
+000240 KS Equity,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment
+000270 KS Equity,Consumer Discretionary,Automobiles & Components,Automobiles,Automobile Manufacturers
+000660 KS Equity,Information Technology,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+000670 KS Equity,Materials,Materials,Metals & Mining,Diversified Metals & Mining
+000720 KS Equity,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering
+000810 KS Equity,Financials,Insurance,Insurance,Property & Casualty Insurance
+000880 KS Equity,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+000990 KS Equity,Information Technology,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Semiconductors
+001040 KS Equity,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+001120 KS Equity,Industrials,Capital Goods,Trading Companies & Distributo,Trading Companies & Distributo
+001230 KS Equity,Materials,Materials,Metals & Mining,Steel
+001440 KS Equity,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipm
+001450 KS Equity,Financials,Insurance,Insurance,Property & Casualty Insurance
+001680 KS Equity,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+001740 KS Equity,Industrials,Capital Goods,Trading Companies & Distributo,Trading Companies & Distributo
+001800 KS Equity,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+002380 KS Equity,Materials,Materials,Chemicals,Diversified Chemicals
+002790 KS Equity,Consumer Staples,Household & Personal Products,Personal Care Products,Personal Care Products
+003090 KS Equity,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+003230 KS Equity,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+003240 KS Equity,Materials,Materials,Chemicals,Commodity Chemicals
+003410 KS Equity,Materials,Materials,Construction Materials,Construction Materials
+003490 KS Equity,Industrials,Transportation,Passenger Airlines,Passenger Airlines
+003550 KS Equity,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+003670 KS Equity,Materials,Materials,Construction Materials,Construction Materials
+003850 KS Equity,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+004000 KS Equity,Materials,Materials,Chemicals,Diversified Chemicals
+004020 KS Equity,Materials,Materials,Metals & Mining,Steel
+004170 KS Equity,Consumer Discretionary,Consumer Discretionary Distrib,Broadline Retail,Broadline Retail
+004370 KS Equity,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+004490 KS Equity,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment
+004800 KS Equity,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+004990 KS Equity,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+005250 KS Equity,Health Care,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+005300 KS Equity,Consumer Staples,"Food, Beverage & Tobacco",Beverages,Soft Drinks & Non-alcoholic Be
+005380 KS Equity,Consumer Discretionary,Automobiles & Components,Automobiles,Automobile Manufacturers
+005490 KS Equity,Materials,Materials,Metals & Mining,Steel
+005830 KS Equity,Financials,Insurance,Insurance,Property & Casualty Insurance
+005850 KS Equity,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment
+005930 KS Equity,Information Technology,Technology Hardware & Equipmen,"Technology Hardware, Storage &","Technology Hardware, Storage &"
+005940 KS Equity,Financials,Financial Services,Capital Markets,Investment Banking & Brokerage
+006040 KS Equity,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+006260 KS Equity,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipm
+006280 KS Equity,Health Care,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+006360 KS Equity,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering
+006400 KS Equity,Information Technology,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Components
+006650 KS Equity,Materials,Materials,Chemicals,Commodity Chemicals
+006800 KS Equity,Financials,Financial Services,Capital Markets,Diversified Capital Markets
+007070 KS Equity,Consumer Staples,Consumer Staples Distribution,Consumer Staples Distribution,Food Retail
+007310 KS Equity,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+008770 KS Equity,Consumer Discretionary,Consumer Discretionary Distrib,Specialty Retail,Other Specialty Retail
+008930 KS Equity,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+009150 KS Equity,Information Technology,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Components
+009240 KS Equity,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Home Furnishings
+009420 KS Equity,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+009540 KS Equity,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy
+009830 KS Equity,Materials,Materials,Chemicals,Commodity Chemicals
+009900 KS Equity,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment
+010060 KS Equity,Materials,Materials,Chemicals,Diversified Chemicals
+010120 KS Equity,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipm
+010130 KS Equity,Materials,Materials,Metals & Mining,Diversified Metals & Mining
+010140 KS Equity,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy
+010620 KS Equity,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy
+010780 KS Equity,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering
+010950 KS Equity,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing
+011070 KS Equity,Information Technology,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Components
+011170 KS Equity,Materials,Materials,Chemicals,Commodity Chemicals
+011200 KS Equity,Industrials,Transportation,Marine Transportation,Marine Transportation
+011210 KS Equity,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment
+011780 KS Equity,Materials,Materials,Chemicals,Commodity Chemicals
+011790 KS Equity,Materials,Materials,Chemicals,Commodity Chemicals
+012330 KS Equity,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment
+012450 KS Equity,Industrials,Capital Goods,Aerospace & Defense,Aerospace & Defense
+012750 KS Equity,Industrials,Commercial & Professional Serv,Commercial Services & Supplies,Security & Alarm Services
+013890 KS Equity,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Home Furnishings
+014680 KS Equity,Materials,Materials,Chemicals,Specialty Chemicals
+014820 KS Equity,Materials,Materials,Containers & Packaging,"Metal, Glass & Plastic Contain"
+015760 KS Equity,Utilities,Utilities,Electric Utilities,Electric Utilities
+016360 KS Equity,Financials,Financial Services,Capital Markets,Investment Banking & Brokerage
+016380 KS Equity,Materials,Materials,Metals & Mining,Steel
+017670 KS Equity,Communication Services,Telecommunication Services,Wireless Telecommunication Ser,Wireless Telecommunication Ser
+017800 KS Equity,Industrials,Capital Goods,Machinery,Industrial Machinery & Supplie
+018260 KS Equity,Information Technology,Software & Services,IT Services,IT Consulting & Other Services
+018880 KS Equity,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment
+019170 KS Equity,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+020000 KS Equity,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+020150 KS Equity,Information Technology,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Components
+020560 KS Equity,Industrials,Transportation,Passenger Airlines,Passenger Airlines
+021240 KS Equity,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Household Appliances
+023530 KS Equity,Consumer Discretionary,Consumer Discretionary Distrib,Broadline Retail,Broadline Retail
+024110 KS Equity,Financials,Banks,Banks,Diversified Banks
+026960 KS Equity,Consumer Staples,Consumer Staples Distribution,Consumer Staples Distribution,Food Distributors
+028050 KS Equity,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering
+028260 KS Equity,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+028670 KS Equity,Industrials,Transportation,Marine Transportation,Marine Transportation
+029780 KS Equity,Financials,Financial Services,Consumer Finance,Consumer Finance
+030000 KS Equity,Communication Services,Media & Entertainment,Media,Advertising
+030200 KS Equity,Communication Services,Telecommunication Services,Diversified Telecommunication,Integrated Telecommunication S
+031430 KS Equity,Consumer Discretionary,Consumer Discretionary Distrib,Specialty Retail,Apparel Retail
+032350 KS Equity,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+032640 KS Equity,Communication Services,Telecommunication Services,Diversified Telecommunication,Integrated Telecommunication S
+032830 KS Equity,Financials,Insurance,Insurance,Life & Health Insurance
+033780 KS Equity,Consumer Staples,"Food, Beverage & Tobacco",Tobacco,Tobacco
+034020 KS Equity,Industrials,Capital Goods,Electrical Equipment,Heavy Electrical Equipment
+034220 KS Equity,Information Technology,Technology Hardware & Equipmen,"Electronic Equipment, Instrume",Electronic Components
+034730 KS Equity,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+035250 KS Equity,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Casinos & Gaming
+035420 KS Equity,Communication Services,Media & Entertainment,Interactive Media & Services,Interactive Media & Services
+035720 KS Equity,Communication Services,Media & Entertainment,Interactive Media & Services,Interactive Media & Services
+036460 KS Equity,Utilities,Utilities,Gas Utilities,Gas Utilities
+036570 KS Equity,Communication Services,Media & Entertainment,Entertainment,Interactive Home Entertainment
+039130 KS Equity,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines"
+039490 KS Equity,Financials,Financial Services,Capital Markets,Investment Banking & Brokerage
+042660 KS Equity,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy
+042670 KS Equity,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy
+047040 KS Equity,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering
+047050 KS Equity,Industrials,Capital Goods,Trading Companies & Distributo,Trading Companies & Distributo
+047810 KS Equity,Industrials,Capital Goods,Aerospace & Defense,Aerospace & Defense
+051600 KS Equity,Industrials,Commercial & Professional Serv,Commercial Services & Supplies,Diversified Support Services
+051900 KS Equity,Consumer Staples,Household & Personal Products,Personal Care Products,Personal Care Products
+051910 KS Equity,Materials,Materials,Chemicals,Commodity Chemicals
+052690 KS Equity,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering
+055550 KS Equity,Financials,Banks,Banks,Diversified Banks
+057050 KS Equity,Consumer Discretionary,Consumer Discretionary Distrib,Broadline Retail,Broadline Retail
+064350 KS Equity,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy
+066570 KS Equity,Consumer Discretionary,Consumer Durables & Apparel,Household Durables,Consumer Electronics
+068270 KS Equity,Health Care,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+069260 KS Equity,Materials,Materials,Chemicals,Specialty Chemicals
+069620 KS Equity,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+069960 KS Equity,Consumer Discretionary,Consumer Discretionary Distrib,Broadline Retail,Broadline Retail
+071050 KS Equity,Financials,Financial Services,Capital Markets,Investment Banking & Brokerage
+073240 KS Equity,Consumer Discretionary,Automobiles & Components,Automobile Components,Tires & Rubber
+078930 KS Equity,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
+079550 KS Equity,Industrials,Capital Goods,Aerospace & Defense,Aerospace & Defense
+081660 KS Equity,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+086280 KS Equity,Industrials,Transportation,Air Freight & Logistics,Air Freight & Logistics
+086790 KS Equity,Financials,Banks,Banks,Diversified Banks
+088350 KS Equity,Financials,Insurance,Insurance,Life & Health Insurance
+090430 KS Equity,Consumer Staples,Household & Personal Products,Personal Care Products,Personal Care Products
+093370 KS Equity,Materials,Materials,Chemicals,Commodity Chemicals
+096770 KS Equity,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing
+097950 KS Equity,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+103140 KS Equity,Materials,Materials,Metals & Mining,Diversified Metals & Mining
+105560 KS Equity,Financials,Banks,Banks,Diversified Banks
+105630 KS Equity,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+111770 KS Equity,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+112610 KS Equity,Industrials,Capital Goods,Electrical Equipment,Heavy Electrical Equipment
+114090 KS Equity,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Casinos & Gaming
+120110 KS Equity,Materials,Materials,Chemicals,Commodity Chemicals
+128940 KS Equity,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+137310 KS Equity,Health Care,Health Care Equipment & Servic,Health Care Equipment & Suppli,Health Care Supplies
+138040 KS Equity,Financials,Financial Services,Financial Services,Diversified Financial Services
+138930 KS Equity,Financials,Banks,Banks,Regional Banks
+139130 KS Equity,Financials,Banks,Banks,Regional Banks
+139480 KS Equity,Consumer Staples,Consumer Staples Distribution,Consumer Staples Distribution,Consumer Staples Merchandise R
+161390 KS Equity,Consumer Discretionary,Automobiles & Components,Automobile Components,Tires & Rubber
+161890 KS Equity,Consumer Staples,Household & Personal Products,Personal Care Products,Personal Care Products
+175330 KS Equity,Financials,Banks,Banks,Diversified Banks
+178920 KS Equity,Materials,Materials,Chemicals,Commodity Chemicals
+180640 KS Equity,Industrials,Transportation,Passenger Airlines,Passenger Airlines
+185750 KS Equity,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+192080 KS Equity,Consumer Discretionary,Consumer Services,"Hotels, Restaurants & Leisure",Casinos & Gaming
+192820 KS Equity,Consumer Staples,Household & Personal Products,Personal Care Products,Personal Care Products
+204320 KS Equity,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment
+207940 KS Equity,Health Care,"Pharmaceuticals, Biotechnology",Life Sciences Tools & Services,Life Sciences Tools & Services
+241560 KS Equity,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy
+241590 KS Equity,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo",Footwear
+251270 KS Equity,Communication Services,Media & Entertainment,Entertainment,Interactive Home Entertainment
+259960 KS Equity,Communication Services,Media & Entertainment,Entertainment,Interactive Home Entertainment
+267250 KS Equity,Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing
+271560 KS Equity,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+271940 KS Equity,Consumer Discretionary,Automobiles & Components,Automobile Components,Automotive Parts & Equipment
+272210 KS Equity,Industrials,Capital Goods,Aerospace & Defense,Aerospace & Defense
+280360 KS Equity,Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged Foods & Meats
+282330 KS Equity,Consumer Staples,Consumer Staples Distribution,Consumer Staples Distribution,Food Retail
+284740 KS Equity,Consumer Discretionary,Consumer Discretionary Distrib,Specialty Retail,Computer & Electronics Retail
+285130 KS Equity,Materials,Materials,Chemicals,Commodity Chemicals
+294870 KS Equity,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering
+298020 KS Equity,Materials,Materials,Chemicals,Commodity Chemicals
+298050 KS Equity,Materials,Materials,Chemicals,Commodity Chemicals
+300720 KS Equity,Materials,Materials,Construction Materials,Construction Materials
+302440 KS Equity,Health Care,"Pharmaceuticals, Biotechnology",Biotechnology,Biotechnology
+316140 KS Equity,Financials,Banks,Banks,Diversified Banks
+323410 KS Equity,Financials,Banks,Banks,Diversified Banks
+326030 KS Equity,Health Care,"Pharmaceuticals, Biotechnology",Pharmaceuticals,Pharmaceuticals
+329180 KS Equity,Industrials,Capital Goods,Machinery,Construction Machinery & Heavy
+336260 KS Equity,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipm
+352820 KS Equity,Communication Services,Media & Entertainment,Entertainment,Movies & Entertainment
+361610 KS Equity,Materials,Materials,Chemicals,Specialty Chemicals
+373220 KS Equity,Industrials,Capital Goods,Electrical Equipment,Electrical Components & Equipm
+375500 KS Equity,Industrials,Capital Goods,Construction & Engineering,Construction & Engineering
+377300 KS Equity,Financials,Financial Services,Financial Services,Transaction & Payment Processi
+381970 KS Equity,Consumer Discretionary,Consumer Discretionary Distrib,Specialty Retail,Automotive Retail
+383220 KS Equity,Consumer Discretionary,Consumer Durables & Apparel,"Textiles, Apparel & Luxury Goo","Apparel, Accessories & Luxury"
+402340 KS Equity,Industrials,Capital Goods,Industrial Conglomerates,Industrial Conglomerates
