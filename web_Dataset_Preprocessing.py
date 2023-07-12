@@ -3,7 +3,7 @@
 
 # # 필요한 패키지 다운로드
 
-# In[4]:
+# In[1]:
 
 
 import pandas as pd
@@ -17,7 +17,7 @@ import pandas_market_calendars as mcal
 
 # # 데이터셋 전처리
 
-# In[3]:
+# In[86]:
 
 
 class preprocessing:
@@ -28,8 +28,6 @@ class preprocessing:
         self.cut_with_valid_date()
         self.fill_na()
         self.winsorizing()
-        
-        return self.df
         
     def index_to_datetime(self):
         self.df['date'] = pd.to_datetime(self.df['date'])
@@ -43,9 +41,6 @@ class preprocessing:
         self.df = self.df.iloc[first_valid_date:]
         
     def get_na_days_list(self, market1, market2, start_date, end_date):
-    
-        start_date_str = start_date.strftime('%Y-%m-%d')
-        end_date_str = end_date.strftime('%Y-%m-%d')
 
         krx_trading_day = market1.schedule(start_date=start_date, end_date=end_date).index.tolist()
         nyse_trading_day = market2.schedule(start_date=start_date, end_date=end_date).index.tolist()
@@ -68,9 +63,9 @@ class preprocessing:
         krx = mcal.get_calendar('XKRX')
         nyse = mcal.get_calendar('NYSE')
         
-        index_to_fill = self.get_na_days_list(krx, nyse, self.df.index[0], self.df.index[-1])  
+        index_to_fill = self.get_na_days_list(krx, nyse, self.df.index[0], self.df.index[-1]) 
         self.df = self.df.reindex(self.df.index.union(index_to_fill))
-        self.df = self.fill_na_by_column()
+        self.fill_na_by_column()
         
     def winsorizing(self):
         self.df['LOG_CHG_PCT_1D_win'] = winsorize(self.df['LOG_CHG_PCT_1D'], limits=(0.05, 0.05))
