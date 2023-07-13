@@ -21,12 +21,16 @@ import pandas_market_calendars as mcal
 
 
 class preprocessing:
-    def __init__(self, df):
+    def __init__(self, df, all_trading_days_dict, timezone):
         self.df = df
+        self.dict = all_trading_days_dict
+        self.timezone = timezone
+        
         self.index_to_datetime()
         self.make_log_chg_pct_1d()
-        self.cut_with_valid_date()
+#         self.cut_with_valid_date()
         self.fill_na()
+        self.make_date_key()
         self.winsorizing()
         
     def index_to_datetime(self):
@@ -36,11 +40,11 @@ class preprocessing:
     def make_log_chg_pct_1d(self):
         self.df['LOG_CHG_PCT_1D'] = np.log(self.df['CHG_PCT_1D']/100 + 1)
     
-    def cut_with_valid_date(self):
-        first_valid_date = np.where(~np.isnan(self.df.to_numpy()).any(axis=1))[0][0]
-        self.df = self.df.iloc[first_valid_date:]
+#     def cut_with_valid_date(self):
+#         first_valid_date = np.where(~np.isnan(self.df.to_numpy()).any(axis=1))[0][0]
+#         self.df = self.df.iloc[first_valid_date:]
         
-    def get_na_days_list(self, market1, market2, start_date, end_date):
+    def get_null_days_list(self, market1, market2, start_date, end_date):
 
         krx_trading_day = market1.schedule(start_date=start_date, end_date=end_date).index.tolist()
         nyse_trading_day = market2.schedule(start_date=start_date, end_date=end_date).index.tolist()
@@ -63,9 +67,13 @@ class preprocessing:
         krx = mcal.get_calendar('XKRX')
         nyse = mcal.get_calendar('NYSE')
         
-        index_to_fill = self.get_na_days_list(krx, nyse, self.df.index[0], self.df.index[-1]) 
+        index_to_fill = self.get_null_days_list(krx, nyse, self.df.index[0], self.df.index[-1]) 
         self.df = self.df.reindex(self.df.index.union(index_to_fill))
         self.fill_na_by_column()
+        
+    def make_date_key(self):
+        self.df['date_keys'] = [self.dict[x] + self.timezone for x in self.df.index]
+        self.df = self.df[['date_keys', 'PX_LAST', 'CHG_PCT_1D', 'LOG_CHG_PCT_1D']]
         
     def winsorizing(self):
         self.df['LOG_CHG_PCT_1D_win'] = winsorize(self.df['LOG_CHG_PCT_1D'], limits=(0.05, 0.05))
